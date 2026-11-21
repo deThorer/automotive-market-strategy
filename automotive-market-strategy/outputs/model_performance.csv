@@ -1,0 +1,8 @@
+model,fuel_type,units,yoy_pct,revenue_musd,avg_price_usd,share_of_company_ev_pct
+X-City Petrol,Petrol,195690,5.6,2452.1,12530.0,
+X-Trail Petrol,Petrol,161695,8.7,3121.2,19303.0,
+X-Trail Diesel,Diesel,64564,-12.1,1339.5,20747.0,
+X-City CNG,CNG,39737,17.9,543.3,13672.0,
+X-City EV,EV,29842,28.0,624.5,20925.0,41.7
+X-Range EV,EV,25897,65.8,713.2,27541.0,36.2
+X-Pro EV,EV,15888,432.3,550.0,34616.0,22.2

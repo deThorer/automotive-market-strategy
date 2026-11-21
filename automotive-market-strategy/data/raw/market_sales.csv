@@ -1,0 +1,2267 @@
+month,brand,fuel_type,units
+2018-01,Company X,CNG,1100
+2018-01,Company X,Diesel,9164
+2018-01,Company X,EV,179
+2018-01,Company X,Petrol,21352
+2018-01,Competitor A,CNG,4808
+2018-01,Competitor A,Diesel,21245
+2018-01,Competitor A,Hybrid,692
+2018-01,Competitor A,Petrol,16715
+2018-01,Competitor B,CNG,2456
+2018-01,Competitor B,Diesel,15709
+2018-01,Competitor B,EV,14
+2018-01,Competitor B,Hybrid,968
+2018-01,Competitor B,Petrol,27888
+2018-01,Competitor C,CNG,3140
+2018-01,Competitor C,Diesel,7150
+2018-01,Competitor C,Hybrid,536
+2018-01,Competitor C,Petrol,44563
+2018-01,Competitor D,CNG,920
+2018-01,Competitor D,Diesel,12093
+2018-01,Competitor D,Hybrid,499
+2018-01,Competitor D,Petrol,46973
+2018-01,Others,CNG,5903
+2018-01,Others,Diesel,26274
+2018-01,Others,EV,10
+2018-01,Others,Hybrid,784
+2018-01,Others,Petrol,36619
+2018-02,Company X,CNG,1025
+2018-02,Company X,Diesel,8073
+2018-02,Company X,EV,147
+2018-02,Company X,Petrol,18480
+2018-02,Competitor A,CNG,4481
+2018-02,Competitor A,Diesel,18717
+2018-02,Competitor A,Hybrid,578
+2018-02,Competitor A,Petrol,14467
+2018-02,Competitor B,CNG,2289
+2018-02,Competitor B,Diesel,13840
+2018-02,Competitor B,EV,10
+2018-02,Competitor B,Hybrid,809
+2018-02,Competitor B,Petrol,24136
+2018-02,Competitor C,CNG,2926
+2018-02,Competitor C,Diesel,6299
+2018-02,Competitor C,Hybrid,448
+2018-02,Competitor C,Petrol,38568
+2018-02,Competitor D,CNG,858
+2018-02,Competitor D,Diesel,10654
+2018-02,Competitor D,Hybrid,417
+2018-02,Competitor D,Petrol,40654
+2018-02,Others,CNG,5502
+2018-02,Others,Diesel,23148
+2018-02,Others,EV,7
+2018-02,Others,Hybrid,655
+2018-02,Others,Petrol,31693
+2018-03,Company X,CNG,1256
+2018-03,Company X,Diesel,9288
+2018-03,Company X,EV,174
+2018-03,Company X,Petrol,19654
+2018-03,Competitor A,CNG,5494
+2018-03,Competitor A,Diesel,21534
+2018-03,Competitor A,Hybrid,675
+2018-03,Competitor A,Petrol,15386
+2018-03,Competitor B,CNG,2806
+2018-03,Competitor B,Diesel,15922
+2018-03,Competitor B,EV,14
+2018-03,Competitor B,Hybrid,945
+2018-03,Competitor B,Petrol,25669
+2018-03,Competitor C,CNG,3588
+2018-03,Competitor C,Diesel,7247
+2018-03,Competitor C,Hybrid,523
+2018-03,Competitor C,Petrol,41018
+2018-03,Competitor D,CNG,1052
+2018-03,Competitor D,Diesel,12258
+2018-03,Competitor D,Hybrid,487
+2018-03,Competitor D,Petrol,43236
+2018-03,Others,CNG,6745
+2018-03,Others,Diesel,26631
+2018-03,Others,EV,10
+2018-03,Others,Hybrid,765
+2018-03,Others,Petrol,33706
+2018-04,Company X,CNG,1083
+2018-04,Company X,Diesel,8690
+2018-04,Company X,EV,184
+2018-04,Company X,Petrol,19828
+2018-04,Competitor A,CNG,4735
+2018-04,Competitor A,Diesel,20148
+2018-04,Competitor A,Hybrid,637
+2018-04,Competitor A,Petrol,15523
+2018-04,Competitor B,CNG,2418
+2018-04,Competitor B,Diesel,14897
+2018-04,Competitor B,EV,15
+2018-04,Competitor B,Hybrid,892
+2018-04,Competitor B,Petrol,25898
+2018-04,Competitor C,CNG,3092
+2018-04,Competitor C,Diesel,6781
+2018-04,Competitor C,Hybrid,494
+2018-04,Competitor C,Petrol,41383
+2018-04,Competitor D,CNG,906
+2018-04,Competitor D,Diesel,11469
+2018-04,Competitor D,Hybrid,460
+2018-04,Competitor D,Petrol,43621
+2018-04,Others,CNG,5813
+2018-04,Others,Diesel,24917
+2018-04,Others,EV,11
+2018-04,Others,Hybrid,722
+2018-04,Others,Petrol,34006
+2018-05,Company X,CNG,1148
+2018-05,Company X,Diesel,8381
+2018-05,Company X,EV,181
+2018-05,Company X,Petrol,20302
+2018-05,Competitor A,CNG,5018
+2018-05,Competitor A,Diesel,19431
+2018-05,Competitor A,Hybrid,622
+2018-05,Competitor A,Petrol,15893
+2018-05,Competitor B,CNG,2563
+2018-05,Competitor B,Diesel,14367
+2018-05,Competitor B,EV,14
+2018-05,Competitor B,Hybrid,870
+2018-05,Competitor B,Petrol,26516
+2018-05,Competitor C,CNG,3277
+2018-05,Competitor C,Diesel,6540
+2018-05,Competitor C,Hybrid,482
+2018-05,Competitor C,Petrol,42371
+2018-05,Competitor D,CNG,961
+2018-05,Competitor D,Diesel,11061
+2018-05,Competitor D,Hybrid,449
+2018-05,Competitor D,Petrol,44662
+2018-05,Others,CNG,6160
+2018-05,Others,Diesel,24030
+2018-05,Others,EV,10
+2018-05,Others,Hybrid,705
+2018-05,Others,Petrol,34818
+2018-06,Company X,CNG,884
+2018-06,Company X,Diesel,8115
+2018-06,Company X,EV,204
+2018-06,Company X,Petrol,19540
+2018-06,Competitor A,CNG,3866
+2018-06,Competitor A,Diesel,18815
+2018-06,Competitor A,Hybrid,541
+2018-06,Competitor A,Petrol,15297
+2018-06,Competitor B,CNG,1974
+2018-06,Competitor B,Diesel,13912
+2018-06,Competitor B,EV,17
+2018-06,Competitor B,Hybrid,757
+2018-06,Competitor B,Petrol,25522
+2018-06,Competitor C,CNG,2524
+2018-06,Competitor C,Diesel,6332
+2018-06,Competitor C,Hybrid,419
+2018-06,Competitor C,Petrol,40782
+2018-06,Competitor D,CNG,740
+2018-06,Competitor D,Diesel,10710
+2018-06,Competitor D,Hybrid,390
+2018-06,Competitor D,Petrol,42987
+2018-06,Others,CNG,4746
+2018-06,Others,Diesel,23269
+2018-06,Others,EV,12
+2018-06,Others,Hybrid,613
+2018-06,Others,Petrol,33512
+2018-07,Company X,CNG,1127
+2018-07,Company X,Diesel,6653
+2018-07,Company X,EV,184
+2018-07,Company X,Petrol,19123
+2018-07,Competitor A,CNG,4929
+2018-07,Competitor A,Diesel,15424
+2018-07,Competitor A,Hybrid,619
+2018-07,Competitor A,Petrol,14971
+2018-07,Competitor B,CNG,2518
+2018-07,Competitor B,Diesel,11404
+2018-07,Competitor B,EV,14
+2018-07,Competitor B,Hybrid,866
+2018-07,Competitor B,Petrol,24977
+2018-07,Competitor C,CNG,3219
+2018-07,Competitor C,Diesel,5191
+2018-07,Competitor C,Hybrid,479
+2018-07,Competitor C,Petrol,39912
+2018-07,Competitor D,CNG,944
+2018-07,Competitor D,Diesel,8779
+2018-07,Competitor D,Hybrid,446
+2018-07,Competitor D,Petrol,42070
+2018-07,Others,CNG,6052
+2018-07,Others,Diesel,19075
+2018-07,Others,EV,10
+2018-07,Others,Hybrid,701
+2018-07,Others,Petrol,32797
+2018-08,Company X,CNG,1256
+2018-08,Company X,Diesel,8478
+2018-08,Company X,EV,216
+2018-08,Company X,Petrol,20548
+2018-08,Competitor A,CNG,5493
+2018-08,Competitor A,Diesel,19657
+2018-08,Competitor A,Hybrid,719
+2018-08,Competitor A,Petrol,16086
+2018-08,Competitor B,CNG,2805
+2018-08,Competitor B,Diesel,14534
+2018-08,Competitor B,EV,17
+2018-08,Competitor B,Hybrid,1007
+2018-08,Competitor B,Petrol,26837
+2018-08,Competitor C,CNG,3587
+2018-08,Competitor C,Diesel,6616
+2018-08,Competitor C,Hybrid,557
+2018-08,Competitor C,Petrol,42884
+2018-08,Competitor D,CNG,1052
+2018-08,Competitor D,Diesel,11189
+2018-08,Competitor D,Hybrid,519
+2018-08,Competitor D,Petrol,45203
+2018-08,Others,CNG,6744
+2018-08,Others,Diesel,24310
+2018-08,Others,EV,12
+2018-08,Others,Hybrid,815
+2018-08,Others,Petrol,35240
+2018-09,Company X,CNG,1193
+2018-09,Company X,Diesel,8592
+2018-09,Company X,EV,258
+2018-09,Company X,Petrol,20036
+2018-09,Competitor A,CNG,5215
+2018-09,Competitor A,Diesel,19921
+2018-09,Competitor A,Hybrid,725
+2018-09,Competitor A,Petrol,15685
+2018-09,Competitor B,CNG,2664
+2018-09,Competitor B,Diesel,14729
+2018-09,Competitor B,EV,20
+2018-09,Competitor B,Hybrid,1015
+2018-09,Competitor B,Petrol,26169
+2018-09,Competitor C,CNG,3406
+2018-09,Competitor C,Diesel,6704
+2018-09,Competitor C,Hybrid,562
+2018-09,Competitor C,Petrol,41817
+2018-09,Competitor D,CNG,998
+2018-09,Competitor D,Diesel,11339
+2018-09,Competitor D,Hybrid,523
+2018-09,Competitor D,Petrol,44078
+2018-09,Others,CNG,6403
+2018-09,Others,Diesel,24636
+2018-09,Others,EV,14
+2018-09,Others,Hybrid,822
+2018-09,Others,Petrol,34362
+2018-10,Company X,CNG,1543
+2018-10,Company X,Diesel,9939
+2018-10,Company X,EV,331
+2018-10,Company X,Petrol,28691
+2018-10,Competitor A,CNG,6747
+2018-10,Competitor A,Diesel,23043
+2018-10,Competitor A,Hybrid,821
+2018-10,Competitor A,Petrol,22460
+2018-10,Competitor B,CNG,3446
+2018-10,Competitor B,Diesel,17038
+2018-10,Competitor B,EV,22
+2018-10,Competitor B,Hybrid,1149
+2018-10,Competitor B,Petrol,37473
+2018-10,Competitor C,CNG,4405
+2018-10,Competitor C,Diesel,7755
+2018-10,Competitor C,Hybrid,636
+2018-10,Competitor C,Petrol,59879
+2018-10,Competitor D,CNG,1291
+2018-10,Competitor D,Diesel,13117
+2018-10,Competitor D,Hybrid,592
+2018-10,Competitor D,Petrol,63117
+2018-10,Others,CNG,8282
+2018-10,Others,Diesel,28498
+2018-10,Others,EV,15
+2018-10,Others,Hybrid,930
+2018-10,Others,Petrol,49205
+2018-11,Company X,CNG,1439
+2018-11,Company X,Diesel,9652
+2018-11,Company X,EV,330
+2018-11,Company X,Petrol,25714
+2018-11,Competitor A,CNG,6294
+2018-11,Competitor A,Diesel,22377
+2018-11,Competitor A,Hybrid,841
+2018-11,Competitor A,Petrol,20130
+2018-11,Competitor B,CNG,3214
+2018-11,Competitor B,Diesel,16545
+2018-11,Competitor B,EV,27
+2018-11,Competitor B,Hybrid,1177
+2018-11,Competitor B,Petrol,33585
+2018-11,Competitor C,CNG,4110
+2018-11,Competitor C,Diesel,7531
+2018-11,Competitor C,Hybrid,652
+2018-11,Competitor C,Petrol,53666
+2018-11,Competitor D,CNG,1205
+2018-11,Competitor D,Diesel,12737
+2018-11,Competitor D,Hybrid,607
+2018-11,Competitor D,Petrol,56568
+2018-11,Others,CNG,7726
+2018-11,Others,Diesel,27674
+2018-11,Others,EV,19
+2018-11,Others,Hybrid,953
+2018-11,Others,Petrol,44099
+2018-12,Company X,CNG,1505
+2018-12,Company X,Diesel,8693
+2018-12,Company X,EV,264
+2018-12,Company X,Petrol,20263
+2018-12,Competitor A,CNG,6582
+2018-12,Competitor A,Diesel,20155
+2018-12,Competitor A,Hybrid,707
+2018-12,Competitor A,Petrol,15863
+2018-12,Competitor B,CNG,3362
+2018-12,Competitor B,Diesel,14902
+2018-12,Competitor B,EV,21
+2018-12,Competitor B,Hybrid,989
+2018-12,Competitor B,Petrol,26466
+2018-12,Competitor C,CNG,4298
+2018-12,Competitor C,Diesel,6783
+2018-12,Competitor C,Hybrid,548
+2018-12,Competitor C,Petrol,42290
+2018-12,Competitor D,CNG,1260
+2018-12,Competitor D,Diesel,11472
+2018-12,Competitor D,Hybrid,510
+2018-12,Competitor D,Petrol,44577
+2018-12,Others,CNG,8081
+2018-12,Others,Diesel,24925
+2018-12,Others,EV,15
+2018-12,Others,Hybrid,801
+2018-12,Others,Petrol,34752
+2019-01,Company X,CNG,1435
+2019-01,Company X,Diesel,8168
+2019-01,Company X,EV,293
+2019-01,Company X,Petrol,21114
+2019-01,Competitor A,CNG,6273
+2019-01,Competitor A,Diesel,18937
+2019-01,Competitor A,Hybrid,808
+2019-01,Competitor A,Petrol,16529
+2019-01,Competitor B,CNG,3204
+2019-01,Competitor B,Diesel,14002
+2019-01,Competitor B,EV,24
+2019-01,Competitor B,Hybrid,1131
+2019-01,Competitor B,Petrol,27577
+2019-01,Competitor C,CNG,4096
+2019-01,Competitor C,Diesel,6373
+2019-01,Competitor C,Hybrid,626
+2019-01,Competitor C,Petrol,44066
+2019-01,Competitor D,CNG,1201
+2019-01,Competitor D,Diesel,10779
+2019-01,Competitor D,Hybrid,583
+2019-01,Competitor D,Petrol,46449
+2019-01,Others,CNG,7701
+2019-01,Others,Diesel,23419
+2019-01,Others,EV,17
+2019-01,Others,Hybrid,915
+2019-01,Others,Petrol,36210
+2019-02,Company X,CNG,1304
+2019-02,Company X,Diesel,8117
+2019-02,Company X,EV,294
+2019-02,Company X,Petrol,21237
+2019-02,Competitor A,CNG,5704
+2019-02,Competitor A,Diesel,18818
+2019-02,Competitor A,Hybrid,652
+2019-02,Competitor A,Petrol,16625
+2019-02,Competitor B,CNG,2913
+2019-02,Competitor B,Diesel,13914
+2019-02,Competitor B,EV,22
+2019-02,Competitor B,Hybrid,913
+2019-02,Competitor B,Petrol,27738
+2019-02,Competitor C,CNG,3724
+2019-02,Competitor C,Diesel,6333
+2019-02,Competitor C,Hybrid,505
+2019-02,Competitor C,Petrol,44323
+2019-02,Competitor D,CNG,1092
+2019-02,Competitor D,Diesel,10712
+2019-02,Competitor D,Hybrid,470
+2019-02,Competitor D,Petrol,46720
+2019-02,Others,CNG,7002
+2019-02,Others,Diesel,23272
+2019-02,Others,EV,16
+2019-02,Others,Hybrid,739
+2019-02,Others,Petrol,36422
+2019-03,Company X,CNG,1296
+2019-03,Company X,Diesel,7764
+2019-03,Company X,EV,298
+2019-03,Company X,Petrol,21349
+2019-03,Competitor A,CNG,5669
+2019-03,Competitor A,Diesel,18000
+2019-03,Competitor A,Hybrid,701
+2019-03,Competitor A,Petrol,16713
+2019-03,Competitor B,CNG,2895
+2019-03,Competitor B,Diesel,13309
+2019-03,Competitor B,EV,26
+2019-03,Competitor B,Hybrid,982
+2019-03,Competitor B,Petrol,27884
+2019-03,Competitor C,CNG,3702
+2019-03,Competitor C,Diesel,6058
+2019-03,Competitor C,Hybrid,543
+2019-03,Competitor C,Petrol,44557
+2019-03,Competitor D,CNG,1085
+2019-03,Competitor D,Diesel,10246
+2019-03,Competitor D,Hybrid,506
+2019-03,Competitor D,Petrol,46967
+2019-03,Others,CNG,6960
+2019-03,Others,Diesel,22261
+2019-03,Others,EV,19
+2019-03,Others,Hybrid,795
+2019-03,Others,Petrol,36614
+2019-04,Company X,CNG,1322
+2019-04,Company X,Diesel,7775
+2019-04,Company X,EV,312
+2019-04,Company X,Petrol,22053
+2019-04,Competitor A,CNG,5780
+2019-04,Competitor A,Diesel,18027
+2019-04,Competitor A,Hybrid,774
+2019-04,Competitor A,Petrol,17264
+2019-04,Competitor B,CNG,2952
+2019-04,Competitor B,Diesel,13329
+2019-04,Competitor B,EV,26
+2019-04,Competitor B,Hybrid,1083
+2019-04,Competitor B,Petrol,28803
+2019-04,Competitor C,CNG,3774
+2019-04,Competitor C,Diesel,6067
+2019-04,Competitor C,Hybrid,599
+2019-04,Competitor C,Petrol,46026
+2019-04,Competitor D,CNG,1106
+2019-04,Competitor D,Diesel,10261
+2019-04,Competitor D,Hybrid,558
+2019-04,Competitor D,Petrol,48515
+2019-04,Others,CNG,7096
+2019-04,Others,Diesel,22294
+2019-04,Others,EV,19
+2019-04,Others,Hybrid,877
+2019-04,Others,Petrol,37821
+2019-05,Company X,CNG,1447
+2019-05,Company X,Diesel,7090
+2019-05,Company X,EV,355
+2019-05,Company X,Petrol,23615
+2019-05,Competitor A,CNG,6327
+2019-05,Competitor A,Diesel,16438
+2019-05,Competitor A,Hybrid,737
+2019-05,Competitor A,Petrol,18487
+2019-05,Competitor B,CNG,3231
+2019-05,Competitor B,Diesel,12154
+2019-05,Competitor B,EV,28
+2019-05,Competitor B,Hybrid,1032
+2019-05,Competitor B,Petrol,30843
+2019-05,Competitor C,CNG,4131
+2019-05,Competitor C,Diesel,5532
+2019-05,Competitor C,Hybrid,571
+2019-05,Competitor C,Petrol,49285
+2019-05,Competitor D,CNG,1211
+2019-05,Competitor D,Diesel,9357
+2019-05,Competitor D,Hybrid,532
+2019-05,Competitor D,Petrol,51950
+2019-05,Others,CNG,7767
+2019-05,Others,Diesel,20329
+2019-05,Others,EV,20
+2019-05,Others,Hybrid,836
+2019-05,Others,Petrol,40499
+2019-06,Company X,CNG,1349
+2019-06,Company X,Diesel,7749
+2019-06,Company X,EV,330
+2019-06,Company X,Petrol,20451
+2019-06,Competitor A,CNG,5901
+2019-06,Competitor A,Diesel,17965
+2019-06,Competitor A,Hybrid,707
+2019-06,Competitor A,Petrol,16010
+2019-06,Competitor B,CNG,3014
+2019-06,Competitor B,Diesel,13283
+2019-06,Competitor B,EV,25
+2019-06,Competitor B,Hybrid,989
+2019-06,Competitor B,Petrol,26710
+2019-06,Competitor C,CNG,3853
+2019-06,Competitor C,Diesel,6046
+2019-06,Competitor C,Hybrid,548
+2019-06,Competitor C,Petrol,42681
+2019-06,Competitor D,CNG,1130
+2019-06,Competitor D,Diesel,10226
+2019-06,Competitor D,Hybrid,510
+2019-06,Competitor D,Petrol,44990
+2019-06,Others,CNG,7244
+2019-06,Others,Diesel,22218
+2019-06,Others,EV,18
+2019-06,Others,Hybrid,801
+2019-06,Others,Petrol,35073
+2019-07,Company X,CNG,1494
+2019-07,Company X,Diesel,7922
+2019-07,Company X,EV,416
+2019-07,Company X,Petrol,21234
+2019-07,Competitor A,CNG,6535
+2019-07,Competitor A,Diesel,18367
+2019-07,Competitor A,Hybrid,761
+2019-07,Competitor A,Petrol,16623
+2019-07,Competitor B,CNG,3337
+2019-07,Competitor B,Diesel,13581
+2019-07,Competitor B,EV,33
+2019-07,Competitor B,Hybrid,1066
+2019-07,Competitor B,Petrol,27733
+2019-07,Competitor C,CNG,4267
+2019-07,Competitor C,Diesel,6182
+2019-07,Competitor C,Hybrid,590
+2019-07,Competitor C,Petrol,44316
+2019-07,Competitor D,CNG,1251
+2019-07,Competitor D,Diesel,10455
+2019-07,Competitor D,Hybrid,549
+2019-07,Competitor D,Petrol,46713
+2019-07,Others,CNG,8022
+2019-07,Others,Diesel,22715
+2019-07,Others,EV,24
+2019-07,Others,Hybrid,862
+2019-07,Others,Petrol,36416
+2019-08,Company X,CNG,1367
+2019-08,Company X,Diesel,8572
+2019-08,Company X,EV,425
+2019-08,Company X,Petrol,21821
+2019-08,Competitor A,CNG,5978
+2019-08,Competitor A,Diesel,19874
+2019-08,Competitor A,Hybrid,739
+2019-08,Competitor A,Petrol,17082
+2019-08,Competitor B,CNG,3053
+2019-08,Competitor B,Diesel,14695
+2019-08,Competitor B,EV,35
+2019-08,Competitor B,Hybrid,1035
+2019-08,Competitor B,Petrol,28500
+2019-08,Competitor C,CNG,3904
+2019-08,Competitor C,Diesel,6689
+2019-08,Competitor C,Hybrid,573
+2019-08,Competitor C,Petrol,45541
+2019-08,Competitor D,CNG,1144
+2019-08,Competitor D,Diesel,11313
+2019-08,Competitor D,Hybrid,533
+2019-08,Competitor D,Petrol,48004
+2019-08,Others,CNG,7339
+2019-08,Others,Diesel,24579
+2019-08,Others,EV,25
+2019-08,Others,Hybrid,837
+2019-08,Others,Petrol,37423
+2019-09,Company X,CNG,1511
+2019-09,Company X,Diesel,7671
+2019-09,Company X,EV,419
+2019-09,Company X,Petrol,22872
+2019-09,Competitor A,CNG,6605
+2019-09,Competitor A,Diesel,17786
+2019-09,Competitor A,Hybrid,815
+2019-09,Competitor A,Petrol,17905
+2019-09,Competitor B,CNG,3374
+2019-09,Competitor B,Diesel,13151
+2019-09,Competitor B,EV,36
+2019-09,Competitor B,Hybrid,1141
+2019-09,Competitor B,Petrol,29873
+2019-09,Competitor C,CNG,4313
+2019-09,Competitor C,Diesel,5986
+2019-09,Competitor C,Hybrid,631
+2019-09,Competitor C,Petrol,47735
+2019-09,Competitor D,CNG,1264
+2019-09,Competitor D,Diesel,10124
+2019-09,Competitor D,Hybrid,588
+2019-09,Competitor D,Petrol,50316
+2019-09,Others,CNG,8109
+2019-09,Others,Diesel,21996
+2019-09,Others,EV,26
+2019-09,Others,Hybrid,923
+2019-09,Others,Petrol,39225
+2019-10,Company X,CNG,1843
+2019-10,Company X,Diesel,10757
+2019-10,Company X,EV,622
+2019-10,Company X,Petrol,26991
+2019-10,Competitor A,CNG,8061
+2019-10,Competitor A,Diesel,24940
+2019-10,Competitor A,Hybrid,999
+2019-10,Competitor A,Petrol,21130
+2019-10,Competitor B,CNG,4117
+2019-10,Competitor B,Diesel,18441
+2019-10,Competitor B,EV,47
+2019-10,Competitor B,Hybrid,1399
+2019-10,Competitor B,Petrol,35253
+2019-10,Competitor C,CNG,5264
+2019-10,Competitor C,Diesel,8394
+2019-10,Competitor C,Hybrid,774
+2019-10,Competitor C,Petrol,56332
+2019-10,Competitor D,CNG,1543
+2019-10,Competitor D,Diesel,14197
+2019-10,Competitor D,Hybrid,721
+2019-10,Competitor D,Petrol,59379
+2019-10,Others,CNG,9896
+2019-10,Others,Diesel,30844
+2019-10,Others,EV,34
+2019-10,Others,Hybrid,1132
+2019-10,Others,Petrol,46291
+2019-11,Company X,CNG,2064
+2019-11,Company X,Diesel,10111
+2019-11,Company X,EV,573
+2019-11,Company X,Petrol,26190
+2019-11,Competitor A,CNG,9025
+2019-11,Competitor A,Diesel,23442
+2019-11,Competitor A,Hybrid,1082
+2019-11,Competitor A,Petrol,20502
+2019-11,Competitor B,CNG,4609
+2019-11,Competitor B,Diesel,17333
+2019-11,Competitor B,EV,39
+2019-11,Competitor B,Hybrid,1515
+2019-11,Competitor B,Petrol,34206
+2019-11,Competitor C,CNG,5893
+2019-11,Competitor C,Diesel,7889
+2019-11,Competitor C,Hybrid,838
+2019-11,Competitor C,Petrol,54659
+2019-11,Competitor D,CNG,1728
+2019-11,Competitor D,Diesel,13344
+2019-11,Competitor D,Hybrid,781
+2019-11,Competitor D,Petrol,57615
+2019-11,Others,CNG,11080
+2019-11,Others,Diesel,28991
+2019-11,Others,EV,28
+2019-11,Others,Hybrid,1226
+2019-11,Others,Petrol,44915
+2019-12,Company X,CNG,1471
+2019-12,Company X,Diesel,7482
+2019-12,Company X,EV,475
+2019-12,Company X,Petrol,23004
+2019-12,Competitor A,CNG,6434
+2019-12,Competitor A,Diesel,17346
+2019-12,Competitor A,Hybrid,790
+2019-12,Competitor A,Petrol,18008
+2019-12,Competitor B,CNG,3286
+2019-12,Competitor B,Diesel,12826
+2019-12,Competitor B,EV,37
+2019-12,Competitor B,Hybrid,1106
+2019-12,Competitor B,Petrol,30045
+2019-12,Competitor C,CNG,4201
+2019-12,Competitor C,Diesel,5838
+2019-12,Competitor C,Hybrid,612
+2019-12,Competitor C,Petrol,48009
+2019-12,Competitor D,CNG,1232
+2019-12,Competitor D,Diesel,9874
+2019-12,Competitor D,Hybrid,570
+2019-12,Competitor D,Petrol,50606
+2019-12,Others,CNG,7899
+2019-12,Others,Diesel,21452
+2019-12,Others,EV,26
+2019-12,Others,Hybrid,895
+2019-12,Others,Petrol,39451
+2020-01,Company X,CNG,1649
+2020-01,Company X,Diesel,7078
+2020-01,Company X,EV,468
+2020-01,Company X,Petrol,23547
+2020-01,Competitor A,CNG,7210
+2020-01,Competitor A,Diesel,16410
+2020-01,Competitor A,Hybrid,875
+2020-01,Competitor A,Petrol,18433
+2020-01,Competitor B,CNG,3682
+2020-01,Competitor B,Diesel,12133
+2020-01,Competitor B,EV,37
+2020-01,Competitor B,Hybrid,1225
+2020-01,Competitor B,Petrol,30754
+2020-01,Competitor C,CNG,4708
+2020-01,Competitor C,Diesel,5523
+2020-01,Competitor C,Hybrid,678
+2020-01,Competitor C,Petrol,49143
+2020-01,Competitor D,CNG,1380
+2020-01,Competitor D,Diesel,9341
+2020-01,Competitor D,Hybrid,631
+2020-01,Competitor D,Petrol,51801
+2020-01,Others,CNG,8851
+2020-01,Others,Diesel,20294
+2020-01,Others,EV,26
+2020-01,Others,Hybrid,991
+2020-01,Others,Petrol,40383
+2020-02,Company X,CNG,1718
+2020-02,Company X,Diesel,7780
+2020-02,Company X,EV,606
+2020-02,Company X,Petrol,23514
+2020-02,Competitor A,CNG,7513
+2020-02,Competitor A,Diesel,18038
+2020-02,Competitor A,EV,7
+2020-02,Competitor A,Hybrid,898
+2020-02,Competitor A,Petrol,18408
+2020-02,Competitor B,CNG,3837
+2020-02,Competitor B,Diesel,13337
+2020-02,Competitor B,EV,42
+2020-02,Competitor B,Hybrid,1257
+2020-02,Competitor B,Petrol,30711
+2020-02,Competitor C,CNG,4906
+2020-02,Competitor C,Diesel,6071
+2020-02,Competitor C,Hybrid,696
+2020-02,Competitor C,Petrol,49075
+2020-02,Competitor D,CNG,1438
+2020-02,Competitor D,Diesel,10268
+2020-02,Competitor D,Hybrid,648
+2020-02,Competitor D,Petrol,51729
+2020-02,Others,CNG,9223
+2020-02,Others,Diesel,22308
+2020-02,Others,EV,30
+2020-02,Others,Hybrid,1018
+2020-02,Others,Petrol,40327
+2020-03,Company X,CNG,1739
+2020-03,Company X,Diesel,8310
+2020-03,Company X,EV,597
+2020-03,Company X,Petrol,24494
+2020-03,Competitor A,CNG,7602
+2020-03,Competitor A,Diesel,19266
+2020-03,Competitor A,EV,14
+2020-03,Competitor A,Hybrid,924
+2020-03,Competitor A,Petrol,19175
+2020-03,Competitor B,CNG,3883
+2020-03,Competitor B,Diesel,14245
+2020-03,Competitor B,EV,44
+2020-03,Competitor B,Hybrid,1293
+2020-03,Competitor B,Petrol,31991
+2020-03,Competitor C,CNG,4964
+2020-03,Competitor C,Diesel,6484
+2020-03,Competitor C,Hybrid,716
+2020-03,Competitor C,Petrol,51119
+2020-03,Competitor D,CNG,1455
+2020-03,Competitor D,Diesel,10967
+2020-03,Competitor D,Hybrid,667
+2020-03,Competitor D,Petrol,53884
+2020-03,Others,CNG,9333
+2020-03,Others,Diesel,23826
+2020-03,Others,EV,31
+2020-03,Others,Hybrid,1047
+2020-03,Others,Petrol,42007
+2020-04,Company X,CNG,595
+2020-04,Company X,Diesel,2959
+2020-04,Company X,EV,226
+2020-04,Company X,Petrol,7737
+2020-04,Competitor A,CNG,2603
+2020-04,Competitor A,Diesel,6860
+2020-04,Competitor A,EV,7
+2020-04,Competitor A,Hybrid,378
+2020-04,Competitor A,Petrol,6057
+2020-04,Competitor B,CNG,1329
+2020-04,Competitor B,Diesel,5072
+2020-04,Competitor B,EV,15
+2020-04,Competitor B,Hybrid,529
+2020-04,Competitor B,Petrol,10106
+2020-04,Competitor C,CNG,1700
+2020-04,Competitor C,Diesel,2309
+2020-04,Competitor C,Hybrid,293
+2020-04,Competitor C,Petrol,16148
+2020-04,Competitor D,CNG,498
+2020-04,Competitor D,Diesel,3905
+2020-04,Competitor D,Hybrid,273
+2020-04,Competitor D,Petrol,17021
+2020-04,Others,CNG,3195
+2020-04,Others,Diesel,8483
+2020-04,Others,EV,10
+2020-04,Others,Hybrid,428
+2020-04,Others,Petrol,13270
+2020-05,Company X,CNG,635
+2020-05,Company X,Diesel,2954
+2020-05,Company X,EV,256
+2020-05,Company X,Petrol,7747
+2020-05,Competitor A,CNG,2777
+2020-05,Competitor A,Diesel,6848
+2020-05,Competitor A,EV,10
+2020-05,Competitor A,Hybrid,332
+2020-05,Competitor A,Petrol,6065
+2020-05,Competitor B,CNG,1418
+2020-05,Competitor B,Diesel,5064
+2020-05,Competitor B,EV,15
+2020-05,Competitor B,Hybrid,465
+2020-05,Competitor B,Petrol,10119
+2020-05,Competitor C,CNG,1813
+2020-05,Competitor C,Diesel,2305
+2020-05,Competitor C,Hybrid,257
+2020-05,Competitor C,Petrol,16169
+2020-05,Competitor D,CNG,531
+2020-05,Competitor D,Diesel,3898
+2020-05,Competitor D,Hybrid,239
+2020-05,Competitor D,Petrol,17044
+2020-05,Others,CNG,3409
+2020-05,Others,Diesel,8470
+2020-05,Others,EV,11
+2020-05,Others,Hybrid,376
+2020-05,Others,Petrol,13287
+2020-06,Company X,CNG,605
+2020-06,Company X,Diesel,2481
+2020-06,Company X,EV,245
+2020-06,Company X,Petrol,8061
+2020-06,Competitor A,CNG,2646
+2020-06,Competitor A,Diesel,5753
+2020-06,Competitor A,EV,10
+2020-06,Competitor A,Hybrid,337
+2020-06,Competitor A,Petrol,6311
+2020-06,Competitor B,CNG,1352
+2020-06,Competitor B,Diesel,4254
+2020-06,Competitor B,EV,13
+2020-06,Competitor B,Hybrid,471
+2020-06,Competitor B,Petrol,10529
+2020-06,Competitor C,CNG,1728
+2020-06,Competitor C,Diesel,1936
+2020-06,Competitor C,Hybrid,261
+2020-06,Competitor C,Petrol,16824
+2020-06,Competitor D,CNG,507
+2020-06,Competitor D,Diesel,3275
+2020-06,Competitor D,Hybrid,243
+2020-06,Competitor D,Petrol,17734
+2020-06,Others,CNG,3249
+2020-06,Others,Diesel,7115
+2020-06,Others,EV,9
+2020-06,Others,Hybrid,381
+2020-06,Others,Petrol,13825
+2020-07,Company X,CNG,1745
+2020-07,Company X,Diesel,7621
+2020-07,Company X,EV,669
+2020-07,Company X,Petrol,20695
+2020-07,Competitor A,CNG,7631
+2020-07,Competitor A,Diesel,17668
+2020-07,Competitor A,EV,33
+2020-07,Competitor A,Hybrid,861
+2020-07,Competitor A,Petrol,16201
+2020-07,Competitor B,CNG,3897
+2020-07,Competitor B,Diesel,13064
+2020-07,Competitor B,EV,34
+2020-07,Competitor B,Hybrid,1205
+2020-07,Competitor B,Petrol,27030
+2020-07,Competitor C,CNG,4983
+2020-07,Competitor C,Diesel,5946
+2020-07,Competitor C,Hybrid,667
+2020-07,Competitor C,Petrol,43192
+2020-07,Competitor D,CNG,1461
+2020-07,Competitor D,Diesel,10057
+2020-07,Competitor D,Hybrid,621
+2020-07,Competitor D,Petrol,45528
+2020-07,Others,CNG,9368
+2020-07,Others,Diesel,21850
+2020-07,Others,EV,24
+2020-07,Others,Hybrid,976
+2020-07,Others,Petrol,35492
+2020-08,Company X,CNG,1969
+2020-08,Company X,Diesel,7393
+2020-08,Company X,EV,690
+2020-08,Company X,Petrol,23326
+2020-08,Competitor A,CNG,8612
+2020-08,Competitor A,Diesel,17140
+2020-08,Competitor A,EV,42
+2020-08,Competitor A,Hybrid,992
+2020-08,Competitor A,Petrol,18260
+2020-08,Competitor B,CNG,4398
+2020-08,Competitor B,Diesel,12673
+2020-08,Competitor B,EV,38
+2020-08,Competitor B,Hybrid,1389
+2020-08,Competitor B,Petrol,30465
+2020-08,Competitor C,CNG,5624
+2020-08,Competitor C,Diesel,5769
+2020-08,Competitor C,Hybrid,769
+2020-08,Competitor C,Petrol,48682
+2020-08,Competitor D,CNG,1649
+2020-08,Competitor D,Diesel,9757
+2020-08,Competitor D,Hybrid,716
+2020-08,Competitor D,Petrol,51315
+2020-08,Others,CNG,10573
+2020-08,Others,Diesel,21197
+2020-08,Others,EV,27
+2020-08,Others,Hybrid,1124
+2020-08,Others,Petrol,40004
+2020-09,Company X,CNG,2176
+2020-09,Company X,Diesel,7988
+2020-09,Company X,EV,766
+2020-09,Company X,Petrol,23666
+2020-09,Competitor A,CNG,9516
+2020-09,Competitor A,Diesel,18519
+2020-09,Competitor A,EV,42
+2020-09,Competitor A,Hybrid,1036
+2020-09,Competitor A,Petrol,18527
+2020-09,Competitor B,CNG,4860
+2020-09,Competitor B,Diesel,13693
+2020-09,Competitor B,EV,33
+2020-09,Competitor B,Hybrid,1450
+2020-09,Competitor B,Petrol,30910
+2020-09,Competitor C,CNG,6214
+2020-09,Competitor C,Diesel,6233
+2020-09,Competitor C,Hybrid,803
+2020-09,Competitor C,Petrol,49392
+2020-09,Competitor D,CNG,1822
+2020-09,Competitor D,Diesel,10541
+2020-09,Competitor D,Hybrid,748
+2020-09,Competitor D,Petrol,52064
+2020-09,Others,CNG,11682
+2020-09,Others,Diesel,22902
+2020-09,Others,EV,24
+2020-09,Others,Hybrid,1174
+2020-09,Others,Petrol,40588
+2020-10,Company X,CNG,2452
+2020-10,Company X,Diesel,8842
+2020-10,Company X,EV,960
+2020-10,Company X,Petrol,28588
+2020-10,Competitor A,CNG,10724
+2020-10,Competitor A,Diesel,20501
+2020-10,Competitor A,EV,55
+2020-10,Competitor A,Hybrid,1144
+2020-10,Competitor A,Petrol,22380
+2020-10,Competitor B,CNG,5477
+2020-10,Competitor B,Diesel,15158
+2020-10,Competitor B,EV,39
+2020-10,Competitor B,Hybrid,1602
+2020-10,Competitor B,Petrol,37339
+2020-10,Competitor C,CNG,7003
+2020-10,Competitor C,Diesel,6900
+2020-10,Competitor C,Hybrid,887
+2020-10,Competitor C,Petrol,59665
+2020-10,Competitor D,CNG,2053
+2020-10,Competitor D,Diesel,11670
+2020-10,Competitor D,Hybrid,826
+2020-10,Competitor D,Petrol,62892
+2020-10,Others,CNG,13165
+2020-10,Others,Diesel,25354
+2020-10,Others,EV,28
+2020-10,Others,Hybrid,1296
+2020-10,Others,Petrol,49029
+2020-11,Company X,CNG,2037
+2020-11,Company X,Diesel,9221
+2020-11,Company X,EV,1028
+2020-11,Company X,Petrol,28340
+2020-11,Competitor A,CNG,8909
+2020-11,Competitor A,Diesel,21379
+2020-11,Competitor A,EV,77
+2020-11,Competitor A,Hybrid,1343
+2020-11,Competitor A,Petrol,22186
+2020-11,Competitor B,CNG,4550
+2020-11,Competitor B,Diesel,15808
+2020-11,Competitor B,EV,49
+2020-11,Competitor B,Hybrid,1880
+2020-11,Competitor B,Petrol,37015
+2020-11,Competitor C,CNG,5817
+2020-11,Competitor C,Diesel,7195
+2020-11,Competitor C,Hybrid,1040
+2020-11,Competitor C,Petrol,59148
+2020-11,Competitor D,CNG,1705
+2020-11,Competitor D,Diesel,12170
+2020-11,Competitor D,Hybrid,969
+2020-11,Competitor D,Petrol,62347
+2020-11,Others,CNG,10937
+2020-11,Others,Diesel,26440
+2020-11,Others,EV,35
+2020-11,Others,Hybrid,1521
+2020-11,Others,Petrol,48604
+2020-12,Company X,CNG,1877
+2020-12,Company X,Diesel,7385
+2020-12,Company X,EV,910
+2020-12,Company X,Petrol,24987
+2020-12,Competitor A,CNG,8207
+2020-12,Competitor A,Diesel,17122
+2020-12,Competitor A,EV,70
+2020-12,Competitor A,Hybrid,1120
+2020-12,Competitor A,Petrol,19561
+2020-12,Competitor B,CNG,4191
+2020-12,Competitor B,Diesel,12660
+2020-12,Competitor B,EV,40
+2020-12,Competitor B,Hybrid,1568
+2020-12,Competitor B,Petrol,32636
+2020-12,Competitor C,CNG,5359
+2020-12,Competitor C,Diesel,5763
+2020-12,Competitor C,Hybrid,868
+2020-12,Competitor C,Petrol,52150
+2020-12,Competitor D,CNG,1571
+2020-12,Competitor D,Diesel,9746
+2020-12,Competitor D,Hybrid,808
+2020-12,Competitor D,Petrol,54970
+2020-12,Others,CNG,10075
+2020-12,Others,Diesel,21175
+2020-12,Others,EV,28
+2020-12,Others,Hybrid,1269
+2020-12,Others,Petrol,42854
+2021-01,Company X,CNG,1745
+2021-01,Company X,Diesel,7020
+2021-01,Company X,EV,854
+2021-01,Company X,Petrol,22032
+2021-01,Competitor A,CNG,7628
+2021-01,Competitor A,Diesel,16275
+2021-01,Competitor A,EV,71
+2021-01,Competitor A,Hybrid,925
+2021-01,Competitor A,Petrol,17248
+2021-01,Competitor B,CNG,3896
+2021-01,Competitor B,Diesel,12034
+2021-01,Competitor B,EV,37
+2021-01,Competitor B,Hybrid,1294
+2021-01,Competitor B,Petrol,28776
+2021-01,Competitor C,CNG,4981
+2021-01,Competitor C,Diesel,5477
+2021-01,Competitor C,Hybrid,716
+2021-01,Competitor C,Petrol,45982
+2021-01,Competitor D,CNG,1460
+2021-01,Competitor D,Diesel,9264
+2021-01,Competitor D,Hybrid,667
+2021-01,Competitor D,Petrol,48469
+2021-01,Others,CNG,9365
+2021-01,Others,Diesel,20127
+2021-01,Others,EV,27
+2021-01,Others,Hybrid,1048
+2021-01,Others,Petrol,37785
+2021-02,Company X,CNG,2039
+2021-02,Company X,Diesel,7432
+2021-02,Company X,EV,1026
+2021-02,Company X,Petrol,25257
+2021-02,Competitor A,CNG,8917
+2021-02,Competitor A,Diesel,17232
+2021-02,Competitor A,EV,87
+2021-02,Competitor A,Hybrid,1165
+2021-02,Competitor A,Petrol,19772
+2021-02,Competitor B,CNG,4554
+2021-02,Competitor B,Diesel,12741
+2021-02,Competitor B,EV,42
+2021-02,Competitor B,Hybrid,1631
+2021-02,Competitor B,Petrol,32988
+2021-02,Competitor C,CNG,5823
+2021-02,Competitor C,Diesel,5799
+2021-02,Competitor C,Hybrid,902
+2021-02,Competitor C,Petrol,52713
+2021-02,Competitor D,CNG,1707
+2021-02,Competitor D,Diesel,9809
+2021-02,Competitor D,Hybrid,840
+2021-02,Competitor D,Petrol,55564
+2021-02,Others,CNG,10947
+2021-02,Others,Diesel,21311
+2021-02,Others,EV,30
+2021-02,Others,Hybrid,1320
+2021-02,Others,Petrol,43316
+2021-03,Company X,CNG,2134
+2021-03,Company X,Diesel,7467
+2021-03,Company X,EV,971
+2021-03,Company X,Petrol,23059
+2021-03,Competitor A,CNG,9332
+2021-03,Competitor A,Diesel,17311
+2021-03,Competitor A,EV,104
+2021-03,Competitor A,Hybrid,1038
+2021-03,Competitor A,Petrol,18052
+2021-03,Competitor B,CNG,4766
+2021-03,Competitor B,Diesel,12800
+2021-03,Competitor B,EV,47
+2021-03,Competitor B,Hybrid,1454
+2021-03,Competitor B,Petrol,30118
+2021-03,Competitor C,CNG,6094
+2021-03,Competitor C,Diesel,5826
+2021-03,Competitor C,Hybrid,805
+2021-03,Competitor C,Petrol,48126
+2021-03,Competitor D,CNG,1786
+2021-03,Competitor D,Diesel,9854
+2021-03,Competitor D,Hybrid,749
+2021-03,Competitor D,Petrol,50729
+2021-03,Others,CNG,11457
+2021-03,Others,Diesel,21409
+2021-03,Others,EV,33
+2021-03,Others,Hybrid,1177
+2021-03,Others,Petrol,39547
+2021-04,Company X,CNG,1702
+2021-04,Company X,Diesel,7529
+2021-04,Company X,EV,1016
+2021-04,Company X,Petrol,23103
+2021-04,Competitor A,CNG,7441
+2021-04,Competitor A,Diesel,17456
+2021-04,Competitor A,EV,90
+2021-04,Competitor A,Hybrid,1073
+2021-04,Competitor A,Petrol,18086
+2021-04,Competitor B,CNG,3800
+2021-04,Competitor B,Diesel,12907
+2021-04,Competitor B,EV,38
+2021-04,Competitor B,Hybrid,1502
+2021-04,Competitor B,Petrol,30175
+2021-04,Competitor C,CNG,4859
+2021-04,Competitor C,Diesel,5875
+2021-04,Competitor C,Hybrid,831
+2021-04,Competitor C,Petrol,48218
+2021-04,Competitor D,CNG,1424
+2021-04,Competitor D,Diesel,9937
+2021-04,Competitor D,Hybrid,774
+2021-04,Competitor D,Petrol,50826
+2021-04,Others,CNG,9134
+2021-04,Others,Diesel,21588
+2021-04,Others,EV,27
+2021-04,Others,Hybrid,1215
+2021-04,Others,Petrol,39623
+2021-05,Company X,CNG,2131
+2021-05,Company X,Diesel,8150
+2021-05,Company X,EV,1202
+2021-05,Company X,Petrol,23886
+2021-05,Competitor A,CNG,9320
+2021-05,Competitor A,Diesel,18895
+2021-05,Competitor A,EV,133
+2021-05,Competitor A,Hybrid,1103
+2021-05,Competitor A,Petrol,18699
+2021-05,Competitor B,CNG,4760
+2021-05,Competitor B,Diesel,13971
+2021-05,Competitor B,EV,52
+2021-05,Competitor B,Hybrid,1544
+2021-05,Competitor B,Petrol,31198
+2021-05,Competitor C,CNG,6086
+2021-05,Competitor C,Diesel,6359
+2021-05,Competitor C,Hybrid,855
+2021-05,Competitor C,Petrol,49852
+2021-05,Competitor D,CNG,1784
+2021-05,Competitor D,Diesel,10756
+2021-05,Competitor D,Hybrid,796
+2021-05,Competitor D,Petrol,52548
+2021-05,Others,CNG,11442
+2021-05,Others,Diesel,23368
+2021-05,Others,EV,37
+2021-05,Others,Hybrid,1250
+2021-05,Others,Petrol,40965
+2021-06,Company X,CNG,2331
+2021-06,Company X,Diesel,7150
+2021-06,Company X,EV,1208
+2021-06,Company X,Petrol,22948
+2021-06,Competitor A,CNG,10193
+2021-06,Competitor A,Diesel,16578
+2021-06,Competitor A,EV,122
+2021-06,Competitor A,Hybrid,1094
+2021-06,Competitor A,Petrol,17965
+2021-06,Competitor B,CNG,5206
+2021-06,Competitor B,Diesel,12257
+2021-06,Competitor B,EV,45
+2021-06,Competitor B,Hybrid,1531
+2021-06,Competitor B,Petrol,29972
+2021-06,Competitor C,CNG,6656
+2021-06,Competitor C,Diesel,5579
+2021-06,Competitor C,Hybrid,847
+2021-06,Competitor C,Petrol,47893
+2021-06,Competitor D,CNG,1951
+2021-06,Competitor D,Diesel,9436
+2021-06,Competitor D,Hybrid,789
+2021-06,Competitor D,Petrol,50484
+2021-06,Others,CNG,12513
+2021-06,Others,Diesel,20502
+2021-06,Others,EV,32
+2021-06,Others,Hybrid,1239
+2021-06,Others,Petrol,39356
+2021-07,Company X,CNG,1923
+2021-07,Company X,Diesel,7069
+2021-07,Company X,EV,1246
+2021-07,Company X,Petrol,22787
+2021-07,Competitor A,CNG,8409
+2021-07,Competitor A,Diesel,16389
+2021-07,Competitor A,EV,145
+2021-07,Competitor A,Hybrid,926
+2021-07,Competitor A,Petrol,17839
+2021-07,Competitor B,CNG,4295
+2021-07,Competitor B,Diesel,12118
+2021-07,Competitor B,EV,51
+2021-07,Competitor B,Hybrid,1296
+2021-07,Competitor B,Petrol,29762
+2021-07,Competitor C,CNG,5491
+2021-07,Competitor C,Diesel,5516
+2021-07,Competitor C,Hybrid,717
+2021-07,Competitor C,Petrol,47558
+2021-07,Competitor D,CNG,1610
+2021-07,Competitor D,Diesel,9329
+2021-07,Competitor D,Hybrid,668
+2021-07,Competitor D,Petrol,50131
+2021-07,Others,CNG,10323
+2021-07,Others,Diesel,20268
+2021-07,Others,EV,36
+2021-07,Others,Hybrid,1049
+2021-07,Others,Petrol,39081
+2021-08,Company X,CNG,1913
+2021-08,Company X,Diesel,6592
+2021-08,Company X,EV,1197
+2021-08,Company X,Petrol,24836
+2021-08,Competitor A,CNG,8367
+2021-08,Competitor A,Diesel,15283
+2021-08,Competitor A,EV,147
+2021-08,Competitor A,Hybrid,1171
+2021-08,Competitor A,Petrol,19443
+2021-08,Competitor B,CNG,4273
+2021-08,Competitor B,Diesel,11300
+2021-08,Competitor B,EV,52
+2021-08,Competitor B,Hybrid,1640
+2021-08,Competitor B,Petrol,32438
+2021-08,Competitor C,CNG,5463
+2021-08,Competitor C,Diesel,5144
+2021-08,Competitor C,Hybrid,907
+2021-08,Competitor C,Petrol,51834
+2021-08,Competitor D,CNG,1602
+2021-08,Competitor D,Diesel,8700
+2021-08,Competitor D,Hybrid,845
+2021-08,Competitor D,Petrol,54638
+2021-08,Others,CNG,10271
+2021-08,Others,Diesel,18901
+2021-08,Others,EV,37
+2021-08,Others,Hybrid,1327
+2021-08,Others,Petrol,42594
+2021-09,Company X,CNG,2421
+2021-09,Company X,Diesel,7368
+2021-09,Company X,EV,1367
+2021-09,Company X,Petrol,24372
+2021-09,Competitor A,CNG,10587
+2021-09,Competitor A,Diesel,17082
+2021-09,Competitor A,EV,169
+2021-09,Competitor A,Hybrid,1234
+2021-09,Competitor A,Petrol,19079
+2021-09,Competitor B,CNG,5407
+2021-09,Competitor B,Diesel,12630
+2021-09,Competitor B,EV,59
+2021-09,Competitor B,Hybrid,1728
+2021-09,Competitor B,Petrol,31832
+2021-09,Competitor C,CNG,6913
+2021-09,Competitor C,Diesel,5749
+2021-09,Competitor C,Hybrid,956
+2021-09,Competitor C,Petrol,50865
+2021-09,Competitor D,CNG,2027
+2021-09,Competitor D,Diesel,9723
+2021-09,Competitor D,Hybrid,891
+2021-09,Competitor D,Petrol,53616
+2021-09,Others,CNG,12997
+2021-09,Others,Diesel,21125
+2021-09,Others,EV,42
+2021-09,Others,Hybrid,1399
+2021-09,Others,Petrol,41798
+2021-10,Company X,CNG,2261
+2021-10,Company X,Diesel,7936
+2021-10,Company X,EV,1655
+2021-10,Company X,Petrol,30854
+2021-10,Competitor A,CNG,9887
+2021-10,Competitor A,Diesel,18400
+2021-10,Competitor A,EV,194
+2021-10,Competitor A,Hybrid,1236
+2021-10,Competitor A,Petrol,24154
+2021-10,Competitor B,CNG,5049
+2021-10,Competitor B,Diesel,13605
+2021-10,Competitor B,EV,68
+2021-10,Competitor B,Hybrid,1730
+2021-10,Competitor B,Petrol,40298
+2021-10,Competitor C,CNG,6456
+2021-10,Competitor C,Diesel,6193
+2021-10,Competitor C,Hybrid,958
+2021-10,Competitor C,Petrol,64394
+2021-10,Competitor D,CNG,1892
+2021-10,Competitor D,Diesel,10474
+2021-10,Competitor D,Hybrid,892
+2021-10,Competitor D,Petrol,67877
+2021-10,Others,CNG,12137
+2021-10,Others,Diesel,22756
+2021-10,Others,EV,48
+2021-10,Others,Hybrid,1400
+2021-10,Others,Petrol,52915
+2021-11,Company X,CNG,2679
+2021-11,Company X,Diesel,8458
+2021-11,Company X,EV,1692
+2021-11,Company X,Petrol,31535
+2021-11,Competitor A,CNG,11715
+2021-11,Competitor A,Diesel,19609
+2021-11,Competitor A,EV,230
+2021-11,Competitor A,Hybrid,1394
+2021-11,Competitor A,Petrol,24687
+2021-11,Competitor B,CNG,5983
+2021-11,Competitor B,Diesel,14499
+2021-11,Competitor B,EV,81
+2021-11,Competitor B,Hybrid,1952
+2021-11,Competitor B,Petrol,41188
+2021-11,Competitor C,CNG,7649
+2021-11,Competitor C,Diesel,6599
+2021-11,Competitor C,Hybrid,1080
+2021-11,Competitor C,Petrol,65816
+2021-11,Competitor D,CNG,2242
+2021-11,Competitor D,Diesel,11162
+2021-11,Competitor D,Hybrid,1006
+2021-11,Competitor D,Petrol,69375
+2021-11,Others,CNG,14381
+2021-11,Others,Diesel,24250
+2021-11,Others,EV,58
+2021-11,Others,Hybrid,1580
+2021-11,Others,Petrol,54083
+2021-12,Company X,CNG,2176
+2021-12,Company X,Diesel,7259
+2021-12,Company X,EV,1626
+2021-12,Company X,Petrol,26157
+2021-12,Competitor A,CNG,9516
+2021-12,Competitor A,Diesel,16830
+2021-12,Competitor A,EV,218
+2021-12,Competitor A,Hybrid,1182
+2021-12,Competitor A,Petrol,20476
+2021-12,Competitor B,CNG,4860
+2021-12,Competitor B,Diesel,12444
+2021-12,Competitor B,EV,76
+2021-12,Competitor B,Hybrid,1655
+2021-12,Competitor B,Petrol,34163
+2021-12,Competitor C,CNG,6214
+2021-12,Competitor C,Diesel,5664
+2021-12,Competitor C,Hybrid,916
+2021-12,Competitor C,Petrol,54590
+2021-12,Competitor D,CNG,1822
+2021-12,Competitor D,Diesel,9580
+2021-12,Competitor D,Hybrid,853
+2021-12,Competitor D,Petrol,57543
+2021-12,Others,CNG,11682
+2021-12,Others,Diesel,20814
+2021-12,Others,EV,55
+2021-12,Others,Hybrid,1339
+2021-12,Others,Petrol,44859
+2022-01,Company X,CNG,2486
+2022-01,Company X,Diesel,6957
+2022-01,Company X,EV,1625
+2022-01,Company X,Petrol,25350
+2022-01,Competitor A,CNG,10869
+2022-01,Competitor A,Diesel,16129
+2022-01,Competitor A,EV,225
+2022-01,Competitor A,Hybrid,1310
+2022-01,Competitor A,Petrol,19845
+2022-01,Competitor B,CNG,5551
+2022-01,Competitor B,Diesel,11926
+2022-01,Competitor B,EV,79
+2022-01,Competitor B,Hybrid,1834
+2022-01,Competitor B,Petrol,33109
+2022-01,Competitor C,CNG,7097
+2022-01,Competitor C,Diesel,5428
+2022-01,Competitor C,Hybrid,1015
+2022-01,Competitor C,Petrol,52906
+2022-01,Competitor D,CNG,2081
+2022-01,Competitor D,Diesel,9181
+2022-01,Competitor D,Hybrid,945
+2022-01,Competitor D,Petrol,55768
+2022-01,Others,CNG,13343
+2022-01,Others,Diesel,19947
+2022-01,Others,EV,56
+2022-01,Others,Hybrid,1485
+2022-01,Others,Petrol,43475
+2022-02,Company X,CNG,2383
+2022-02,Company X,Diesel,6627
+2022-02,Company X,EV,1931
+2022-02,Company X,Petrol,27061
+2022-02,Competitor A,CNG,10421
+2022-02,Competitor A,Diesel,15364
+2022-02,Competitor A,EV,295
+2022-02,Competitor A,Hybrid,1283
+2022-02,Competitor A,Petrol,21184
+2022-02,Competitor B,CNG,5322
+2022-02,Competitor B,Diesel,11360
+2022-02,Competitor B,EV,103
+2022-02,Competitor B,Hybrid,1797
+2022-02,Competitor B,Petrol,35344
+2022-02,Competitor C,CNG,6805
+2022-02,Competitor C,Diesel,5171
+2022-02,Competitor C,Hybrid,994
+2022-02,Competitor C,Petrol,56478
+2022-02,Competitor D,CNG,1995
+2022-02,Competitor D,Diesel,8745
+2022-02,Competitor D,Hybrid,926
+2022-02,Competitor D,Petrol,59532
+2022-02,Others,CNG,12794
+2022-02,Others,Diesel,19000
+2022-02,Others,EV,74
+2022-02,Others,Hybrid,1454
+2022-02,Others,Petrol,46410
+2022-03,Company X,CNG,1877
+2022-03,Company X,Diesel,6388
+2022-03,Company X,EV,1653
+2022-03,Company X,Petrol,26898
+2022-03,Competitor A,CNG,8209
+2022-03,Competitor A,Diesel,14810
+2022-03,Competitor A,EV,211
+2022-03,Competitor A,Hybrid,1306
+2022-03,Competitor A,Petrol,21057
+2022-03,Competitor B,CNG,4192
+2022-03,Competitor B,Diesel,10951
+2022-03,Competitor B,EV,74
+2022-03,Competitor B,Hybrid,1829
+2022-03,Competitor B,Petrol,35131
+2022-03,Competitor C,CNG,5360
+2022-03,Competitor C,Diesel,4984
+2022-03,Competitor C,Hybrid,1012
+2022-03,Competitor C,Petrol,56137
+2022-03,Competitor D,CNG,1571
+2022-03,Competitor D,Diesel,8430
+2022-03,Competitor D,Hybrid,943
+2022-03,Competitor D,Petrol,59174
+2022-03,Others,CNG,10078
+2022-03,Others,Diesel,18316
+2022-03,Others,EV,53
+2022-03,Others,Hybrid,1480
+2022-03,Others,Petrol,46130
+2022-04,Company X,CNG,2022
+2022-04,Company X,Diesel,6072
+2022-04,Company X,EV,1636
+2022-04,Company X,Petrol,26271
+2022-04,Competitor A,CNG,8841
+2022-04,Competitor A,Diesel,14078
+2022-04,Competitor A,EV,224
+2022-04,Competitor A,Hybrid,1315
+2022-04,Competitor A,Petrol,20566
+2022-04,Competitor B,CNG,4515
+2022-04,Competitor B,Diesel,10409
+2022-04,Competitor B,EV,78
+2022-04,Competitor B,Hybrid,1841
+2022-04,Competitor B,Petrol,34313
+2022-04,Competitor C,CNG,5773
+2022-04,Competitor C,Diesel,4738
+2022-04,Competitor C,Hybrid,1019
+2022-04,Competitor C,Petrol,54829
+2022-04,Competitor D,CNG,1692
+2022-04,Competitor D,Diesel,8014
+2022-04,Competitor D,Hybrid,949
+2022-04,Competitor D,Petrol,57795
+2022-04,Others,CNG,10853
+2022-04,Others,Diesel,17411
+2022-04,Others,EV,56
+2022-04,Others,Hybrid,1490
+2022-04,Others,Petrol,45055
+2022-05,Company X,CNG,2368
+2022-05,Company X,Diesel,7317
+2022-05,Company X,EV,1769
+2022-05,Company X,Petrol,26147
+2022-05,Competitor A,CNG,10354
+2022-05,Competitor A,Diesel,16964
+2022-05,Competitor A,EV,258
+2022-05,Competitor A,Hybrid,1293
+2022-05,Competitor A,Petrol,20469
+2022-05,Competitor B,CNG,5288
+2022-05,Competitor B,Diesel,12543
+2022-05,Competitor B,EV,90
+2022-05,Competitor B,Hybrid,1809
+2022-05,Competitor B,Petrol,34151
+2022-05,Competitor C,CNG,6761
+2022-05,Competitor C,Diesel,5709
+2022-05,Competitor C,Hybrid,1001
+2022-05,Competitor C,Petrol,54570
+2022-05,Competitor D,CNG,1982
+2022-05,Competitor D,Diesel,9656
+2022-05,Competitor D,Hybrid,933
+2022-05,Competitor D,Petrol,57522
+2022-05,Others,CNG,12711
+2022-05,Others,Diesel,20979
+2022-05,Others,EV,64
+2022-05,Others,Hybrid,1465
+2022-05,Others,Petrol,44843
+2022-06,Company X,CNG,2311
+2022-06,Company X,Diesel,5934
+2022-06,Company X,EV,1885
+2022-06,Company X,Petrol,25526
+2022-06,Competitor A,CNG,10104
+2022-06,Competitor A,Diesel,13759
+2022-06,Competitor A,EV,259
+2022-06,Competitor A,Hybrid,1274
+2022-06,Competitor A,Petrol,19983
+2022-06,Competitor B,CNG,5160
+2022-06,Competitor B,Diesel,10173
+2022-06,Competitor B,EV,91
+2022-06,Competitor B,Hybrid,1783
+2022-06,Competitor B,Petrol,33339
+2022-06,Competitor C,CNG,6598
+2022-06,Competitor C,Diesel,4631
+2022-06,Competitor C,Hybrid,987
+2022-06,Competitor C,Petrol,53274
+2022-06,Competitor D,CNG,1934
+2022-06,Competitor D,Diesel,7832
+2022-06,Competitor D,Hybrid,919
+2022-06,Competitor D,Petrol,56155
+2022-06,Others,CNG,12404
+2022-06,Others,Diesel,17015
+2022-06,Others,EV,65
+2022-06,Others,Hybrid,1443
+2022-06,Others,Petrol,43777
+2022-07,Company X,CNG,2414
+2022-07,Company X,Diesel,5995
+2022-07,Company X,EV,2249
+2022-07,Company X,Petrol,24475
+2022-07,Competitor A,CNG,10558
+2022-07,Competitor A,Diesel,13898
+2022-07,Competitor A,EV,361
+2022-07,Competitor A,Hybrid,1246
+2022-07,Competitor A,Petrol,19160
+2022-07,Competitor B,CNG,5392
+2022-07,Competitor B,Diesel,10276
+2022-07,Competitor B,EV,127
+2022-07,Competitor B,Hybrid,1744
+2022-07,Competitor B,Petrol,31967
+2022-07,Competitor C,CNG,6894
+2022-07,Competitor C,Diesel,4677
+2022-07,Competitor C,Hybrid,965
+2022-07,Competitor C,Petrol,51081
+2022-07,Competitor D,CNG,2021
+2022-07,Competitor D,Diesel,7911
+2022-07,Competitor D,Hybrid,899
+2022-07,Competitor D,Petrol,53844
+2022-07,Others,CNG,12961
+2022-07,Others,Diesel,17188
+2022-07,Others,EV,90
+2022-07,Others,Hybrid,1412
+2022-07,Others,Petrol,41975
+2022-08,Company X,CNG,2276
+2022-08,Company X,Diesel,6824
+2022-08,Company X,EV,2130
+2022-08,Company X,Petrol,25598
+2022-08,Competitor A,CNG,9953
+2022-08,Competitor A,Diesel,15822
+2022-08,Competitor A,EV,330
+2022-08,Competitor A,Hybrid,1300
+2022-08,Competitor A,Petrol,20039
+2022-08,Competitor B,CNG,5083
+2022-08,Competitor B,Diesel,11699
+2022-08,Competitor B,EV,116
+2022-08,Competitor B,Hybrid,1821
+2022-08,Competitor B,Petrol,33433
+2022-08,Competitor C,CNG,6499
+2022-08,Competitor C,Diesel,5325
+2022-08,Competitor C,Hybrid,1008
+2022-08,Competitor C,Petrol,53424
+2022-08,Competitor D,CNG,1905
+2022-08,Competitor D,Diesel,9006
+2022-08,Competitor D,Hybrid,938
+2022-08,Competitor D,Petrol,56313
+2022-08,Others,CNG,12219
+2022-08,Others,Diesel,19567
+2022-08,Others,EV,83
+2022-08,Others,Hybrid,1474
+2022-08,Others,Petrol,43901
+2022-09,Company X,CNG,2465
+2022-09,Company X,Diesel,7417
+2022-09,Company X,EV,2058
+2022-09,Company X,Petrol,25906
+2022-09,Competitor A,CNG,10779
+2022-09,Competitor A,Diesel,17196
+2022-09,Competitor A,EV,290
+2022-09,Competitor A,Hybrid,1360
+2022-09,Competitor A,Petrol,20281
+2022-09,Competitor B,CNG,5505
+2022-09,Competitor B,Diesel,12715
+2022-09,Competitor B,EV,102
+2022-09,Competitor B,Hybrid,1904
+2022-09,Competitor B,Petrol,33836
+2022-09,Competitor C,CNG,7038
+2022-09,Competitor C,Diesel,5787
+2022-09,Competitor C,Hybrid,1054
+2022-09,Competitor C,Petrol,54068
+2022-09,Competitor D,CNG,2063
+2022-09,Competitor D,Diesel,9788
+2022-09,Competitor D,Hybrid,981
+2022-09,Competitor D,Petrol,56992
+2022-09,Others,CNG,13232
+2022-09,Others,Diesel,21267
+2022-09,Others,EV,73
+2022-09,Others,Hybrid,1541
+2022-09,Others,Petrol,44430
+2022-10,Company X,CNG,2516
+2022-10,Company X,Diesel,7051
+2022-10,Company X,EV,2402
+2022-10,Company X,Petrol,29541
+2022-10,Competitor A,CNG,11002
+2022-10,Competitor A,Diesel,16347
+2022-10,Competitor A,EV,363
+2022-10,Competitor A,Hybrid,1553
+2022-10,Competitor A,Petrol,23126
+2022-10,Competitor B,CNG,5619
+2022-10,Competitor B,Diesel,12087
+2022-10,Competitor B,EV,127
+2022-10,Competitor B,Hybrid,2174
+2022-10,Competitor B,Petrol,38583
+2022-10,Competitor C,CNG,7184
+2022-10,Competitor C,Diesel,5502
+2022-10,Competitor C,Hybrid,1203
+2022-10,Competitor C,Petrol,61653
+2022-10,Competitor D,CNG,2106
+2022-10,Competitor D,Diesel,9305
+2022-10,Competitor D,Hybrid,1121
+2022-10,Competitor D,Petrol,64988
+2022-10,Others,CNG,13507
+2022-10,Others,Diesel,20216
+2022-10,Others,EV,91
+2022-10,Others,Hybrid,1760
+2022-10,Others,Petrol,50663
+2022-11,Company X,CNG,3283
+2022-11,Company X,Diesel,7203
+2022-11,Company X,EV,2850
+2022-11,Company X,Petrol,32431
+2022-11,Competitor A,CNG,14356
+2022-11,Competitor A,Diesel,16700
+2022-11,Competitor A,EV,531
+2022-11,Competitor A,Hybrid,1674
+2022-11,Competitor A,Petrol,25388
+2022-11,Competitor B,CNG,7332
+2022-11,Competitor B,Diesel,12348
+2022-11,Competitor B,EV,186
+2022-11,Competitor B,Hybrid,2344
+2022-11,Competitor B,Petrol,42358
+2022-11,Competitor C,CNG,9375
+2022-11,Competitor C,Diesel,5620
+2022-11,Competitor C,Hybrid,1297
+2022-11,Competitor C,Petrol,67684
+2022-11,Competitor D,CNG,2748
+2022-11,Competitor D,Diesel,9506
+2022-11,Competitor D,Hybrid,1208
+2022-11,Competitor D,Petrol,71345
+2022-11,Others,CNG,17625
+2022-11,Others,Diesel,20653
+2022-11,Others,EV,133
+2022-11,Others,Hybrid,1897
+2022-11,Others,Petrol,55619
+2022-12,Company X,CNG,2805
+2022-12,Company X,Diesel,6511
+2022-12,Company X,EV,2555
+2022-12,Company X,Petrol,26852
+2022-12,Competitor A,CNG,12265
+2022-12,Competitor A,Diesel,15094
+2022-12,Competitor A,EV,515
+2022-12,Competitor A,Hybrid,1448
+2022-12,Competitor A,Petrol,21021
+2022-12,Competitor B,CNG,6264
+2022-12,Competitor B,Diesel,11161
+2022-12,Competitor B,EV,180
+2022-12,Competitor B,Hybrid,2027
+2022-12,Competitor B,Petrol,35071
+2022-12,Competitor C,CNG,8009
+2022-12,Competitor C,Diesel,5080
+2022-12,Competitor C,Hybrid,1122
+2022-12,Competitor C,Petrol,56040
+2022-12,Competitor D,CNG,2348
+2022-12,Competitor D,Diesel,8592
+2022-12,Competitor D,Hybrid,1045
+2022-12,Competitor D,Petrol,59071
+2022-12,Others,CNG,15057
+2022-12,Others,Diesel,18667
+2022-12,Others,EV,129
+2022-12,Others,Hybrid,1640
+2022-12,Others,Petrol,46051
+2023-01,Company X,CNG,2493
+2023-01,Company X,Diesel,6256
+2023-01,Company X,EV,2605
+2023-01,Company X,Petrol,25370
+2023-01,Competitor A,CNG,10902
+2023-01,Competitor A,Diesel,14505
+2023-01,Competitor A,EV,470
+2023-01,Competitor A,Hybrid,1306
+2023-01,Competitor A,Petrol,19861
+2023-01,Competitor B,CNG,5568
+2023-01,Competitor B,Diesel,10725
+2023-01,Competitor B,EV,165
+2023-01,Competitor B,Hybrid,1829
+2023-01,Competitor B,Petrol,33135
+2023-01,Competitor C,CNG,7119
+2023-01,Competitor C,Diesel,4882
+2023-01,Competitor C,Hybrid,1012
+2023-01,Competitor C,Petrol,52948
+2023-01,Competitor D,CNG,2087
+2023-01,Competitor D,Diesel,8257
+2023-01,Competitor D,Hybrid,943
+2023-01,Competitor D,Petrol,55812
+2023-01,Others,CNG,13384
+2023-01,Others,Diesel,17939
+2023-01,Others,EV,118
+2023-01,Others,Hybrid,1480
+2023-01,Others,Petrol,43509
+2023-02,Company X,CNG,2615
+2023-02,Company X,Diesel,6468
+2023-02,Company X,EV,2521
+2023-02,Company X,Petrol,27004
+2023-02,Competitor A,CNG,11437
+2023-02,Competitor A,Diesel,14995
+2023-02,Competitor A,EV,397
+2023-02,Competitor A,Hybrid,1479
+2023-02,Competitor A,Petrol,21140
+2023-02,Competitor B,CNG,5841
+2023-02,Competitor B,Diesel,11088
+2023-02,Competitor B,EV,139
+2023-02,Competitor B,Hybrid,2071
+2023-02,Competitor B,Petrol,35270
+2023-02,Competitor C,CNG,7468
+2023-02,Competitor C,Diesel,5047
+2023-02,Competitor C,EV,20
+2023-02,Competitor C,Hybrid,1146
+2023-02,Competitor C,Petrol,56359
+2023-02,Competitor D,CNG,2189
+2023-02,Competitor D,Diesel,8536
+2023-02,Competitor D,Hybrid,1067
+2023-02,Competitor D,Petrol,59408
+2023-02,Others,CNG,14040
+2023-02,Others,Diesel,18545
+2023-02,Others,EV,99
+2023-02,Others,Hybrid,1676
+2023-02,Others,Petrol,46313
+2023-03,Company X,CNG,2856
+2023-03,Company X,Diesel,5804
+2023-03,Company X,EV,2830
+2023-03,Company X,Petrol,26146
+2023-03,Competitor A,CNG,12488
+2023-03,Competitor A,Diesel,13457
+2023-03,Competitor A,EV,483
+2023-03,Competitor A,Hybrid,1467
+2023-03,Competitor A,Petrol,20468
+2023-03,Competitor B,CNG,6378
+2023-03,Competitor B,Diesel,9950
+2023-03,Competitor B,EV,169
+2023-03,Competitor B,Hybrid,2054
+2023-03,Competitor B,Petrol,34149
+2023-03,Competitor C,CNG,8154
+2023-03,Competitor C,Diesel,4529
+2023-03,Competitor C,EV,48
+2023-03,Competitor C,Hybrid,1137
+2023-03,Competitor C,Petrol,54568
+2023-03,Competitor D,CNG,2390
+2023-03,Competitor D,Diesel,7660
+2023-03,Competitor D,Hybrid,1059
+2023-03,Competitor D,Petrol,57519
+2023-03,Others,CNG,15331
+2023-03,Others,Diesel,16642
+2023-03,Others,EV,121
+2023-03,Others,Hybrid,1663
+2023-03,Others,Petrol,44841
+2023-04,Company X,CNG,3146
+2023-04,Company X,Diesel,6536
+2023-04,Company X,EV,3212
+2023-04,Company X,Petrol,26869
+2023-04,Competitor A,CNG,13756
+2023-04,Competitor A,Diesel,15154
+2023-04,Competitor A,EV,534
+2023-04,Competitor A,Hybrid,1638
+2023-04,Competitor A,Petrol,21034
+2023-04,Competitor B,CNG,7025
+2023-04,Competitor B,Diesel,11205
+2023-04,Competitor B,EV,187
+2023-04,Competitor B,Hybrid,2293
+2023-04,Competitor B,Petrol,35093
+2023-04,Competitor C,CNG,8982
+2023-04,Competitor C,Diesel,5100
+2023-04,Competitor C,EV,80
+2023-04,Competitor C,Hybrid,1269
+2023-04,Competitor C,Petrol,56077
+2023-04,Competitor D,CNG,2633
+2023-04,Competitor D,Diesel,8626
+2023-04,Competitor D,Hybrid,1182
+2023-04,Competitor D,Petrol,59110
+2023-04,Others,CNG,16887
+2023-04,Others,Diesel,18741
+2023-04,Others,EV,133
+2023-04,Others,Hybrid,1856
+2023-04,Others,Petrol,46080
+2023-05,Company X,CNG,2512
+2023-05,Company X,Diesel,5780
+2023-05,Company X,EV,2716
+2023-05,Company X,Petrol,25836
+2023-05,Competitor A,CNG,10983
+2023-05,Competitor A,Diesel,13400
+2023-05,Competitor A,EV,426
+2023-05,Competitor A,Hybrid,1371
+2023-05,Competitor A,Petrol,20226
+2023-05,Competitor B,CNG,5609
+2023-05,Competitor B,Diesel,9908
+2023-05,Competitor B,EV,149
+2023-05,Competitor B,Hybrid,1920
+2023-05,Competitor B,Petrol,33745
+2023-05,Competitor C,CNG,7172
+2023-05,Competitor C,Diesel,4510
+2023-05,Competitor C,EV,85
+2023-05,Competitor C,Hybrid,1063
+2023-05,Competitor C,Petrol,53922
+2023-05,Competitor D,CNG,2102
+2023-05,Competitor D,Diesel,7628
+2023-05,Competitor D,Hybrid,990
+2023-05,Competitor D,Petrol,56838
+2023-05,Others,CNG,13484
+2023-05,Others,Diesel,16572
+2023-05,Others,EV,106
+2023-05,Others,Hybrid,1554
+2023-05,Others,Petrol,44309
+2023-06,Company X,CNG,2347
+2023-06,Company X,Diesel,5654
+2023-06,Company X,EV,3200
+2023-06,Company X,Petrol,25255
+2023-06,Competitor A,CNG,10263
+2023-06,Competitor A,Diesel,13109
+2023-06,Competitor A,EV,541
+2023-06,Competitor A,Hybrid,1486
+2023-06,Competitor A,Petrol,19770
+2023-06,Competitor B,CNG,5242
+2023-06,Competitor B,Diesel,9693
+2023-06,Competitor B,EV,189
+2023-06,Competitor B,Hybrid,2081
+2023-06,Competitor B,Petrol,32985
+2023-06,Competitor C,CNG,6702
+2023-06,Competitor C,Diesel,4412
+2023-06,Competitor C,EV,135
+2023-06,Competitor C,Hybrid,1152
+2023-06,Competitor C,Petrol,52707
+2023-06,Competitor D,CNG,1965
+2023-06,Competitor D,Diesel,7462
+2023-06,Competitor D,Hybrid,1073
+2023-06,Competitor D,Petrol,55558
+2023-06,Others,CNG,12600
+2023-06,Others,Diesel,16212
+2023-06,Others,EV,135
+2023-06,Others,Hybrid,1684
+2023-06,Others,Petrol,43312
+2023-07,Company X,CNG,2603
+2023-07,Company X,Diesel,4744
+2023-07,Company X,EV,3219
+2023-07,Company X,Petrol,27788
+2023-07,Competitor A,CNG,11380
+2023-07,Competitor A,Diesel,10998
+2023-07,Competitor A,EV,507
+2023-07,Competitor A,Hybrid,1461
+2023-07,Competitor A,Petrol,21754
+2023-07,Competitor B,CNG,5812
+2023-07,Competitor B,Diesel,8132
+2023-07,Competitor B,EV,178
+2023-07,Competitor B,Hybrid,2046
+2023-07,Competitor B,Petrol,36294
+2023-07,Competitor C,CNG,7431
+2023-07,Competitor C,Diesel,3702
+2023-07,Competitor C,EV,152
+2023-07,Competitor C,Hybrid,1132
+2023-07,Competitor C,Petrol,57995
+2023-07,Competitor D,CNG,2178
+2023-07,Competitor D,Diesel,6260
+2023-07,Competitor D,Hybrid,1055
+2023-07,Competitor D,Petrol,61131
+2023-07,Others,CNG,13971
+2023-07,Others,Diesel,13602
+2023-07,Others,EV,127
+2023-07,Others,Hybrid,1656
+2023-07,Others,Petrol,47657
+2023-08,Company X,CNG,2941
+2023-08,Company X,Diesel,6255
+2023-08,Company X,EV,3688
+2023-08,Company X,Petrol,28583
+2023-08,Competitor A,CNG,12860
+2023-08,Competitor A,Diesel,14502
+2023-08,Competitor A,EV,558
+2023-08,Competitor A,Hybrid,1519
+2023-08,Competitor A,Petrol,22376
+2023-08,Competitor B,CNG,6568
+2023-08,Competitor B,Diesel,10723
+2023-08,Competitor B,EV,195
+2023-08,Competitor B,Hybrid,2126
+2023-08,Competitor B,Petrol,37332
+2023-08,Competitor C,CNG,8397
+2023-08,Competitor C,Diesel,4881
+2023-08,Competitor C,EV,195
+2023-08,Competitor C,Hybrid,1177
+2023-08,Competitor C,Petrol,59654
+2023-08,Competitor D,CNG,2462
+2023-08,Competitor D,Diesel,8255
+2023-08,Competitor D,Hybrid,1096
+2023-08,Competitor D,Petrol,62881
+2023-08,Others,CNG,15787
+2023-08,Others,Diesel,17935
+2023-08,Others,EV,139
+2023-08,Others,Hybrid,1721
+2023-08,Others,Petrol,49020
+2023-09,Company X,CNG,2546
+2023-09,Company X,Diesel,5634
+2023-09,Company X,EV,3423
+2023-09,Company X,Petrol,26154
+2023-09,Competitor A,CNG,11134
+2023-09,Competitor A,Diesel,13062
+2023-09,Competitor A,EV,523
+2023-09,Competitor A,Hybrid,1404
+2023-09,Competitor A,Petrol,20475
+2023-09,Competitor B,CNG,5686
+2023-09,Competitor B,Diesel,9658
+2023-09,Competitor B,EV,183
+2023-09,Competitor B,Hybrid,1966
+2023-09,Competitor B,Petrol,34160
+2023-09,Competitor C,CNG,7270
+2023-09,Competitor C,Diesel,4396
+2023-09,Competitor C,EV,209
+2023-09,Competitor C,Hybrid,1088
+2023-09,Competitor C,Petrol,54585
+2023-09,Competitor D,CNG,2131
+2023-09,Competitor D,Diesel,7435
+2023-09,Competitor D,Hybrid,1013
+2023-09,Competitor D,Petrol,57538
+2023-09,Others,CNG,13668
+2023-09,Others,Diesel,16154
+2023-09,Others,EV,131
+2023-09,Others,Hybrid,1591
+2023-09,Others,Petrol,44855
+2023-10,Company X,CNG,3028
+2023-10,Company X,Diesel,6214
+2023-10,Company X,EV,4673
+2023-10,Company X,Petrol,33671
+2023-10,Competitor A,CNG,13239
+2023-10,Competitor A,Diesel,14406
+2023-10,Competitor A,EV,712
+2023-10,Competitor A,Hybrid,1824
+2023-10,Competitor A,Petrol,26359
+2023-10,Competitor B,CNG,6761
+2023-10,Competitor B,Diesel,10652
+2023-10,Competitor B,EV,249
+2023-10,Competitor B,Hybrid,2554
+2023-10,Competitor B,Petrol,43977
+2023-10,Competitor C,CNG,8645
+2023-10,Competitor C,Diesel,4848
+2023-10,Competitor C,EV,320
+2023-10,Competitor C,Hybrid,1414
+2023-10,Competitor C,Petrol,70272
+2023-10,Competitor D,CNG,2534
+2023-10,Competitor D,Diesel,8200
+2023-10,Competitor D,Hybrid,1317
+2023-10,Competitor D,Petrol,74073
+2023-10,Others,CNG,16253
+2023-10,Others,Diesel,17816
+2023-10,Others,EV,178
+2023-10,Others,Hybrid,2067
+2023-10,Others,Petrol,57746
+2023-11,Company X,CNG,3661
+2023-11,Company X,Diesel,7067
+2023-11,Company X,EV,4780
+2023-11,Company X,Petrol,32892
+2023-11,Competitor A,CNG,16011
+2023-11,Competitor A,Diesel,16384
+2023-11,Competitor A,EV,763
+2023-11,Competitor A,Hybrid,1842
+2023-11,Competitor A,Petrol,25749
+2023-11,Competitor B,CNG,8177
+2023-11,Competitor B,Diesel,12115
+2023-11,Competitor B,EV,267
+2023-11,Competitor B,Hybrid,2579
+2023-11,Competitor B,Petrol,42960
+2023-11,Competitor C,CNG,10455
+2023-11,Competitor C,Diesel,5514
+2023-11,Competitor C,EV,381
+2023-11,Competitor C,Hybrid,1427
+2023-11,Competitor C,Petrol,68647
+2023-11,Competitor D,CNG,3065
+2023-11,Competitor D,Diesel,9326
+2023-11,Competitor D,Hybrid,1329
+2023-11,Competitor D,Petrol,72360
+2023-11,Others,CNG,19656
+2023-11,Others,Diesel,20263
+2023-11,Others,EV,191
+2023-11,Others,Hybrid,2087
+2023-11,Others,Petrol,56410
+2023-12,Company X,CNG,2855
+2023-12,Company X,Diesel,6276
+2023-12,Company X,EV,4961
+2023-12,Company X,Petrol,26834
+2023-12,Competitor A,CNG,12486
+2023-12,Competitor A,Diesel,14550
+2023-12,Competitor A,EV,741
+2023-12,Competitor A,Hybrid,1606
+2023-12,Competitor A,Petrol,21007
+2023-12,Competitor B,CNG,6377
+2023-12,Competitor B,Diesel,10758
+2023-12,Competitor B,EV,259
+2023-12,Competitor B,Hybrid,2248
+2023-12,Competitor B,Petrol,35048
+2023-12,Competitor C,CNG,8153
+2023-12,Competitor C,Diesel,4897
+2023-12,Competitor C,EV,407
+2023-12,Competitor C,Hybrid,1244
+2023-12,Competitor C,Petrol,56004
+2023-12,Competitor D,CNG,2390
+2023-12,Competitor D,Diesel,8282
+2023-12,Competitor D,Hybrid,1159
+2023-12,Competitor D,Petrol,59033
+2023-12,Others,CNG,15329
+2023-12,Others,Diesel,17994
+2023-12,Others,EV,185
+2023-12,Others,Hybrid,1820
+2023-12,Others,Petrol,46021
+2024-01,Company X,CNG,3126
+2024-01,Company X,Diesel,5797
+2024-01,Company X,EV,5128
+2024-01,Company X,Petrol,29575
+2024-01,Competitor A,CNG,13669
+2024-01,Competitor A,Diesel,13440
+2024-01,Competitor A,EV,800
+2024-01,Competitor A,Hybrid,1823
+2024-01,Competitor A,Petrol,23153
+2024-01,Competitor B,CNG,6981
+2024-01,Competitor B,Diesel,9937
+2024-01,Competitor B,EV,280
+2024-01,Competitor B,Hybrid,2553
+2024-01,Competitor B,Petrol,38628
+2024-01,Competitor C,CNG,8926
+2024-01,Competitor C,Diesel,4523
+2024-01,Competitor C,EV,480
+2024-01,Competitor C,Hybrid,1413
+2024-01,Competitor C,Petrol,61724
+2024-01,Competitor D,CNG,2616
+2024-01,Competitor D,Diesel,7650
+2024-01,Competitor D,Hybrid,1316
+2024-01,Competitor D,Petrol,65063
+2024-01,Others,CNG,16780
+2024-01,Others,Diesel,16621
+2024-01,Others,EV,200
+2024-01,Others,Hybrid,2066
+2024-01,Others,Petrol,50721
+2024-02,Company X,CNG,2782
+2024-02,Company X,Diesel,5734
+2024-02,Company X,EV,4705
+2024-02,Company X,Petrol,27164
+2024-02,Competitor A,CNG,12164
+2024-02,Competitor A,Diesel,13295
+2024-02,Competitor A,EV,665
+2024-02,Competitor A,Hybrid,1559
+2024-02,Competitor A,Petrol,21265
+2024-02,Competitor B,CNG,6212
+2024-02,Competitor B,Diesel,9830
+2024-02,Competitor B,EV,233
+2024-02,Competitor B,Hybrid,2183
+2024-02,Competitor B,Petrol,35479
+2024-02,Competitor C,CNG,7943
+2024-02,Competitor C,Diesel,4474
+2024-02,Competitor C,EV,432
+2024-02,Competitor C,Hybrid,1208
+2024-02,Competitor C,Petrol,56693
+2024-02,Competitor D,CNG,2328
+2024-02,Competitor D,Diesel,7568
+2024-02,Competitor D,Hybrid,1125
+2024-02,Competitor D,Petrol,59759
+2024-02,Others,CNG,14933
+2024-02,Others,Diesel,16442
+2024-02,Others,EV,166
+2024-02,Others,Hybrid,1767
+2024-02,Others,Petrol,46587
+2024-03,Company X,CNG,3117
+2024-03,Company X,Diesel,5554
+2024-03,Company X,EV,4776
+2024-03,Company X,Petrol,28792
+2024-03,Competitor A,CNG,13630
+2024-03,Competitor A,Diesel,12877
+2024-03,Competitor A,EV,627
+2024-03,Competitor A,Hybrid,1590
+2024-03,Competitor A,Petrol,22540
+2024-03,Competitor B,CNG,6961
+2024-03,Competitor B,Diesel,9522
+2024-03,Competitor B,EV,219
+2024-03,Competitor B,Hybrid,2226
+2024-03,Competitor B,Petrol,37605
+2024-03,Competitor C,CNG,8900
+2024-03,Competitor C,Diesel,4334
+2024-03,Competitor C,EV,439
+2024-03,Competitor C,Hybrid,1232
+2024-03,Competitor C,Petrol,60090
+2024-03,Competitor D,CNG,2609
+2024-03,Competitor D,Diesel,7330
+2024-03,Competitor D,Hybrid,1148
+2024-03,Competitor D,Petrol,63340
+2024-03,Others,CNG,16732
+2024-03,Others,Diesel,15926
+2024-03,Others,EV,157
+2024-03,Others,Hybrid,1802
+2024-03,Others,Petrol,49378
+2024-04,Company X,CNG,3018
+2024-04,Company X,Diesel,4976
+2024-04,Company X,EV,4803
+2024-04,Company X,Petrol,27908
+2024-04,Competitor A,CNG,13196
+2024-04,Competitor A,Diesel,11537
+2024-04,Competitor A,EV,748
+2024-04,Competitor A,Hybrid,1656
+2024-04,Competitor A,Petrol,21847
+2024-04,Competitor B,CNG,6740
+2024-04,Competitor B,Diesel,8530
+2024-04,Competitor B,EV,262
+2024-04,Competitor B,Hybrid,2318
+2024-04,Competitor B,Petrol,36450
+2024-04,Competitor C,CNG,8617
+2024-04,Competitor C,Diesel,3883
+2024-04,Competitor C,EV,561
+2024-04,Competitor C,Hybrid,1283
+2024-04,Competitor C,Petrol,58244
+2024-04,Competitor D,CNG,2526
+2024-04,Competitor D,Diesel,6567
+2024-04,Competitor D,Hybrid,1195
+2024-04,Competitor D,Petrol,61395
+2024-04,Others,CNG,16200
+2024-04,Others,Diesel,14268
+2024-04,Others,EV,187
+2024-04,Others,Hybrid,1877
+2024-04,Others,Petrol,47862
+2024-05,Company X,CNG,3555
+2024-05,Company X,Diesel,5523
+2024-05,Company X,EV,5255
+2024-05,Company X,Petrol,29228
+2024-05,Competitor A,CNG,15545
+2024-05,Competitor A,Diesel,12804
+2024-05,Competitor A,EV,875
+2024-05,Competitor A,Hybrid,2067
+2024-05,Competitor A,Petrol,22881
+2024-05,Competitor B,CNG,7939
+2024-05,Competitor B,Diesel,9467
+2024-05,Competitor B,EV,306
+2024-05,Competitor B,Hybrid,2893
+2024-05,Competitor B,Petrol,38175
+2024-05,Competitor C,CNG,10151
+2024-05,Competitor C,Diesel,4309
+2024-05,Competitor C,EV,700
+2024-05,Competitor C,Hybrid,1601
+2024-05,Competitor C,Petrol,61001
+2024-05,Competitor D,CNG,2976
+2024-05,Competitor D,Diesel,7288
+2024-05,Competitor D,Hybrid,1491
+2024-05,Competitor D,Petrol,64300
+2024-05,Others,CNG,19084
+2024-05,Others,Diesel,15835
+2024-05,Others,EV,219
+2024-05,Others,Hybrid,2342
+2024-05,Others,Petrol,50127
+2024-06,Company X,CNG,3043
+2024-06,Company X,Diesel,4450
+2024-06,Company X,EV,5408
+2024-06,Company X,Petrol,27373
+2024-06,Competitor A,CNG,13307
+2024-06,Competitor A,Diesel,10316
+2024-06,Competitor A,EV,821
+2024-06,Competitor A,Hybrid,1659
+2024-06,Competitor A,Petrol,21429
+2024-06,Competitor B,CNG,6796
+2024-06,Competitor B,Diesel,7628
+2024-06,Competitor B,EV,287
+2024-06,Competitor B,Hybrid,2322
+2024-06,Competitor B,Petrol,35752
+2024-06,Competitor C,CNG,8689
+2024-06,Competitor C,Diesel,3472
+2024-06,Competitor C,EV,698
+2024-06,Competitor C,Hybrid,1285
+2024-06,Competitor C,Petrol,57129
+2024-06,Competitor D,CNG,2547
+2024-06,Competitor D,Diesel,5872
+2024-06,Competitor D,Hybrid,1197
+2024-06,Competitor D,Petrol,60218
+2024-06,Others,CNG,16337
+2024-06,Others,Diesel,12758
+2024-06,Others,EV,205
+2024-06,Others,Hybrid,1880
+2024-06,Others,Petrol,46945
+2024-07,Company X,CNG,2869
+2024-07,Company X,Diesel,4393
+2024-07,Company X,EV,5154
+2024-07,Company X,Petrol,27527
+2024-07,Competitor A,CNG,12545
+2024-07,Competitor A,Diesel,10186
+2024-07,Competitor A,EV,748
+2024-07,Competitor A,Hybrid,1619
+2024-07,Competitor A,Petrol,21549
+2024-07,Competitor B,CNG,6407
+2024-07,Competitor B,Diesel,7531
+2024-07,Competitor B,EV,262
+2024-07,Competitor B,Hybrid,2266
+2024-07,Competitor B,Petrol,35953
+2024-07,Competitor C,CNG,8192
+2024-07,Competitor C,Diesel,3428
+2024-07,Competitor C,EV,673
+2024-07,Competitor C,Hybrid,1254
+2024-07,Competitor C,Petrol,57451
+2024-07,Competitor D,CNG,2401
+2024-07,Competitor D,Diesel,5798
+2024-07,Competitor D,Hybrid,1168
+2024-07,Competitor D,Petrol,60558
+2024-07,Others,CNG,15401
+2024-07,Others,Diesel,12597
+2024-07,Others,EV,187
+2024-07,Others,Hybrid,1834
+2024-07,Others,Petrol,47209
+2024-08,Company X,CNG,2724
+2024-08,Company X,Diesel,5120
+2024-08,Company X,EV,5416
+2024-08,Company X,Petrol,27951
+2024-08,Competitor A,CNG,11909
+2024-08,Competitor A,Diesel,11871
+2024-08,Competitor A,EV,772
+2024-08,Competitor A,Hybrid,1502
+2024-08,Competitor A,Petrol,21881
+2024-08,Competitor B,CNG,6082
+2024-08,Competitor B,Diesel,8777
+2024-08,Competitor B,EV,270
+2024-08,Competitor B,Hybrid,2103
+2024-08,Competitor B,Petrol,36506
+2024-08,Competitor C,CNG,7777
+2024-08,Competitor C,Diesel,3995
+2024-08,Competitor C,EV,694
+2024-08,Competitor C,Hybrid,1164
+2024-08,Competitor C,Petrol,58334
+2024-08,Competitor D,CNG,2280
+2024-08,Competitor D,Diesel,6757
+2024-08,Competitor D,Hybrid,1084
+2024-08,Competitor D,Petrol,61489
+2024-08,Others,CNG,14621
+2024-08,Others,Diesel,14680
+2024-08,Others,EV,193
+2024-08,Others,Hybrid,1702
+2024-08,Others,Petrol,47936
+2024-09,Company X,CNG,3394
+2024-09,Company X,Diesel,5099
+2024-09,Company X,EV,7301
+2024-09,Company X,Petrol,30706
+2024-09,Competitor A,CNG,14841
+2024-09,Competitor A,Diesel,11822
+2024-09,Competitor A,EV,1055
+2024-09,Competitor A,Hybrid,1896
+2024-09,Competitor A,Petrol,24038
+2024-09,Competitor B,CNG,7579
+2024-09,Competitor B,Diesel,8741
+2024-09,Competitor B,EV,369
+2024-09,Competitor B,Hybrid,2654
+2024-09,Competitor B,Petrol,40105
+2024-09,Competitor C,CNG,9691
+2024-09,Competitor C,Diesel,3979
+2024-09,Competitor C,EV,950
+2024-09,Competitor C,Hybrid,1469
+2024-09,Competitor C,Petrol,64085
+2024-09,Competitor D,CNG,2841
+2024-09,Competitor D,Diesel,6729
+2024-09,Competitor D,Hybrid,1368
+2024-09,Competitor D,Petrol,67552
+2024-09,Others,CNG,18219
+2024-09,Others,Diesel,14620
+2024-09,Others,EV,264
+2024-09,Others,Hybrid,2148
+2024-09,Others,Petrol,52662
+2024-10,Company X,CNG,4172
+2024-10,Company X,Diesel,5957
+2024-10,Company X,EV,7635
+2024-10,Company X,Petrol,34858
+2024-10,Competitor A,CNG,18245
+2024-10,Competitor A,Diesel,13811
+2024-10,Competitor A,EV,1231
+2024-10,Competitor A,Hybrid,2250
+2024-10,Competitor A,Petrol,27288
+2024-10,Competitor B,CNG,9318
+2024-10,Competitor B,Diesel,10212
+2024-10,Competitor B,EV,431
+2024-10,Competitor B,Hybrid,3150
+2024-10,Competitor B,Petrol,45528
+2024-10,Competitor C,CNG,11914
+2024-10,Competitor C,Diesel,4648
+2024-10,Competitor C,EV,1108
+2024-10,Competitor C,Hybrid,1744
+2024-10,Competitor C,Petrol,72750
+2024-10,Competitor D,CNG,3492
+2024-10,Competitor D,Diesel,7861
+2024-10,Competitor D,Hybrid,1624
+2024-10,Competitor D,Petrol,76685
+2024-10,Others,CNG,22398
+2024-10,Others,Diesel,17080
+2024-10,Others,EV,308
+2024-10,Others,Hybrid,2550
+2024-10,Others,Petrol,59781
+2024-11,Company X,CNG,3931
+2024-11,Company X,Diesel,6185
+2024-11,Company X,EV,8320
+2024-11,Company X,Petrol,35275
+2024-11,Competitor A,CNG,17190
+2024-11,Competitor A,Diesel,14339
+2024-11,Competitor A,EV,1362
+2024-11,Competitor A,Hybrid,1934
+2024-11,Competitor A,Petrol,27615
+2024-11,Competitor B,CNG,8779
+2024-11,Competitor B,Diesel,10602
+2024-11,Competitor B,EV,477
+2024-11,Competitor B,Hybrid,2707
+2024-11,Competitor B,Petrol,46072
+2024-11,Competitor C,CNG,11225
+2024-11,Competitor C,Diesel,4826
+2024-11,Competitor C,EV,1226
+2024-11,Competitor C,Hybrid,1498
+2024-11,Competitor C,Petrol,73620
+2024-11,Competitor D,CNG,3291
+2024-11,Competitor D,Diesel,8162
+2024-11,Competitor D,Hybrid,1395
+2024-11,Competitor D,Petrol,77602
+2024-11,Others,CNG,21103
+2024-11,Others,Diesel,17734
+2024-11,Others,EV,341
+2024-11,Others,Hybrid,2191
+2024-11,Others,Petrol,60497
+2024-12,Company X,CNG,3418
+2024-12,Company X,Diesel,5548
+2024-12,Company X,EV,8065
+2024-12,Company X,Petrol,29737
+2024-12,Competitor A,CNG,14946
+2024-12,Competitor A,Diesel,12862
+2024-12,Competitor A,EV,1211
+2024-12,Competitor A,Hybrid,1937
+2024-12,Competitor A,Petrol,23279
+2024-12,Competitor B,CNG,7633
+2024-12,Competitor B,Diesel,9510
+2024-12,Competitor B,EV,424
+2024-12,Competitor B,Hybrid,2712
+2024-12,Competitor B,Petrol,38839
+2024-12,Competitor C,CNG,9759
+2024-12,Competitor C,Diesel,4329
+2024-12,Competitor C,EV,1090
+2024-12,Competitor C,Hybrid,1501
+2024-12,Competitor C,Petrol,62062
+2024-12,Competitor D,CNG,2861
+2024-12,Competitor D,Diesel,7321
+2024-12,Competitor D,Hybrid,1398
+2024-12,Competitor D,Petrol,65419
+2024-12,Others,CNG,18348
+2024-12,Others,Diesel,15907
+2024-12,Others,EV,303
+2024-12,Others,Hybrid,2195
+2024-12,Others,Petrol,50999

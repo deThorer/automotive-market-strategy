@@ -1,0 +1,6 @@
+,model,test_mape_pct
+2,logistic L=30%,5.3
+3,logistic L=50%,5.5
+4,logistic L=70%,5.7
+1,exponential,6.2
+0,linear trend,43.5

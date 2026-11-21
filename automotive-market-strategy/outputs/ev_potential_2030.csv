@@ -1,0 +1,10 @@
+,ev_adoption,company_share_scenario,ev_market_units,company_ev_share_pct,company_ev_units,growth_vs_now_x,revenue_busd
+0,slow,defend (hold share),1213437,73.1,886779,12.3,23.37
+1,slow,slow erosion (-1.5 pp/yr),1213437,64.1,777570,10.8,20.49
+2,slow,trend continues (-3.7 pp/yr),1213437,51.0,619435,8.6,16.32
+3,base,defend (hold share),1616096,73.1,1181042,16.4,31.13
+4,base,slow erosion (-1.5 pp/yr),1616096,64.1,1035594,14.4,27.29
+5,base,trend continues (-3.7 pp/yr),1616096,51.0,824984,11.5,21.74
+6,fast,defend (hold share),1883694,73.1,1376603,19.1,36.28
+7,fast,slow erosion (-1.5 pp/yr),1883694,64.1,1207071,16.8,31.81
+8,fast,trend continues (-3.7 pp/yr),1883694,51.0,961588,13.4,25.34
